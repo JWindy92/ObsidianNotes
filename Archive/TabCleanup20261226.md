@@ -1,0 +1,43 @@
+### Tab Cleanup 06/12/26
+- Victorian Flagellation Literature
+  - The Whippingham Papers
+- The History of LA Spillways
+  - Hazardous Metropolis: Jared Orsi
+  - The Mirage Factory: Gary Krist
+  - Floodpath: Deadliest Manmade Disaster..: Jon Wilkman
+- History of Streetlamps
+  - Disenchanted Night: Wolfgang Schivelbusch
+- Sports Data Analysis (soccer focus)
+  - The Gold Mine Effect: Rasmus Ankersen
+  - The European Game: Daniel Fieldsend
+  - Thomas Tuchel, talk @ Rulebreakers
+  - 21st Club Consulting - Sports Data Analytics Company
+    - Changing the Conversation - 21st Club: Article by David Anderson (Medium)
+  - Goal: Ferran Soriano
+  - Soccernomics: Kuper & Szymanski
+- Local Government Education
+  - ICMA International & Professional Local Government Worldwide (PDF in Drive)
+  - Local Governments 101: Guide from multistate.us
+  - Does Your Government Measure Up? - Textbook
+- Native PC Ports vs Emulation - Cutting Edge of Video Game Preservation?
+  - See Article on XDA-Developers - Unread
+    - Decompilation & Recompilation - Technique? Process? Tools?
+- Jaws Quint T-Shirt: "Here's to Swimmin' with Bow Legged Women"
+- Lukas Moodysson - Director, Poet - Swedish
+  - Kjerstin Moody - Translator of his Poetry, Author of Schollarly Articles on his work
+- Father Gabriel Amorth - Italian Priest & Exorcist
+  - Basis for "The Pope's Exorcist"
+  - Wrote books on his experiences
+- Anton Lavey
+  - The Satanic Bible (PDF in Drive)
+  - Michael Acquino - Wrote about him (critical?)
+- The Gate Program
+  - Conspiracy Regarding "Gifted" students programs
+- The Erotic Mind: Jack Morin
+- Ero Guro Cinema
+- Nihlist Literature
+  - This Spoke Zarathustra: Fred Nietz
+  - The Stranger: Camus
+  - Notes from Underground: Dostoevsky
+  - The Castle: Franz Kafka
+  - All Quiet on the Western Front: Erich Maria Remarque

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Note.md",
+                "file": "Notes/The GATE Program Conspiracy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Note"
+              "title": "The GATE Program Conspiracy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Note.md",
+                "file": "Notes/The GATE Program Conspiracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test Note"
+              "title": "Backlinks for The GATE Program Conspiracy"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Note.md",
+                "file": "Notes/The GATE Program Conspiracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test Note"
+              "title": "Outgoing links from The GATE Program Conspiracy"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Note.md",
+                "file": "Notes/The GATE Program Conspiracy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Note"
+              "title": "Outline of The GATE Program Conspiracy"
             }
           }
         ]
@@ -185,8 +185,28 @@
   },
   "active": "d6986c4da2e01e05",
   "lastOpenFiles": [
-    "Resources/Mermaid Diagrams — Demo and Reference.md",
+    "Resources/Topics/History of Streetlamps.md",
+    "Resources/Topics/Sports Data Analysis — Soccer.md",
+    "Resources/Topics/Local Government.md",
     "Projects/Future Automations.md",
+    "Archive/TabCleanup20261226.md",
+    "Inbox/TODO — Buy Jaws Quint T-Shirt.md",
+    "Inbox/TODO — Read XDA Article on Native PC Ports & Decompilation.md",
+    "Notes/Father Gabriel Amorth — Exorcist.md",
+    "Notes/The Erotic Mind — Jack Morin.md",
+    "Notes/Ero Guro Cinema.md",
+    "Notes/Lukas Moodysson — Director & Poet.md",
+    "Notes/The GATE Program Conspiracy.md",
+    "Notes/Anton LaVey & The Satanic Bible.md",
+    "Notes/Victorian Flagellation Literature.md",
+    "Resources/Topics/Nihilist Literature.md",
+    "Test Note.md",
+    "Resources/Topics/LA Water History & Spillways.md",
+    "Resources/Reading List.md",
+    "Resources/Topics",
+    "TabCleanup20261226.md",
+    "Journal/2026-06-12.md",
+    "Resources/Mermaid Diagrams — Demo and Reference.md",
     "Resources/My Note-Taking Methodology.md",
     "Resources/How to Create Note Templates.md",
     "Templates",
@@ -199,7 +219,6 @@
     "Projects",
     "Inbox",
     "Foam Power User Setup Plan.md",
-    "Test Note.md",
     "Welcome.md"
   ]
 }
