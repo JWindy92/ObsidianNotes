@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian — machine-specific, do not sync
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Obsidian — sync these (shared appearance/plugin config)
+# .obsidian/app.json
+# .obsidian/appearance.json
+# .obsidian/core-plugins.json
+# .obsidian/community-plugins.json
+# .obsidian/plugins/
+
+# Foam cache
+.foam/cache
+
+# VS Code — machine-specific
+# .vscode/settings.json is intentionally committed (shared vault config)
+
+# Thumbnails / system files
+Thumbs.db
+Desktop.ini
