@@ -1,0 +1,163 @@
+{
+  "title": "Obsidian",
+  "showTitle": true,
+  "logo": "",
+  "themeColorTarget": "none",
+  "searchPlaceholder": "Search or command",
+  "showNewNoteButton": true,
+  "newNoteButtonMode": "newNote",
+  "searchContents": true,
+  "searchEngine": "builtin",
+  "backgroundKind": "default",
+  "backgroundValue": "",
+  "backgroundOpacity": 0.35,
+  "backgroundBlur": 2,
+  "openOnStartup": true,
+  "replaceNewTabs": true,
+  "mobileSearchOnly": false,
+  "showMobileActionBar": true,
+  "mobileActionButtons": [
+    {
+      "id": "action-new-note",
+      "label": "New note",
+      "icon": "plus",
+      "type": "command",
+      "target": "hearth:new-note"
+    },
+    {
+      "id": "action-new-drawing",
+      "label": "New drawing",
+      "icon": "pen-tool",
+      "type": "command",
+      "target": "hearth:new-drawing"
+    },
+    {
+      "id": "action-record-voice",
+      "label": "Record voice",
+      "icon": "mic",
+      "type": "command",
+      "target": "hearth:record-voice"
+    },
+    {
+      "id": "action-daily-note",
+      "label": "Daily note",
+      "icon": "calendar",
+      "type": "command",
+      "target": "hearth:open-daily-note"
+    }
+  ],
+  "disableExternalCalls": false,
+  "compact": false,
+  "arrangeButtonVisibility": "always",
+  "dashboardSwitcherVisibility": "always",
+  "cardOpacity": 0.5,
+  "cardBlur": 7,
+  "cardRadius": 14,
+  "cardBorderWidth": 1,
+  "hiddenFilters": [],
+  "dashboards": [
+    {
+      "id": "dash-mrxlv5my-2782",
+      "name": "Dashboard 1",
+      "cards": [
+        {
+          "id": "card-clock",
+          "kind": "clock",
+          "title": "",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 3,
+          "fx": 0,
+          "fw": 0.2842987804878049,
+          "fy": 0,
+          "fh": 145
+        },
+        {
+          "id": "card-daily",
+          "kind": "daily",
+          "title": "Today",
+          "x": 0,
+          "y": 3,
+          "w": 7,
+          "h": 6,
+          "fx": 0.2964939024390244,
+          "fw": 0.34603658536585363,
+          "fy": 161,
+          "fh": 395
+        },
+        {
+          "id": "card-calendar",
+          "kind": "calendar",
+          "title": "Calendar",
+          "x": 7,
+          "y": 3,
+          "w": 5,
+          "h": 6,
+          "fx": 0,
+          "fw": 0.2842987804878049,
+          "fy": 159,
+          "fh": 397
+        },
+        {
+          "id": "card-recent",
+          "kind": "recent",
+          "title": "Recent",
+          "x": 0,
+          "y": 9,
+          "w": 7,
+          "h": 4,
+          "count": 8,
+          "fx": 0.6547256097560976,
+          "fw": 0.34527439024390244,
+          "fy": 272,
+          "fh": 284
+        },
+        {
+          "id": "card-stats",
+          "kind": "stats",
+          "title": "Vault",
+          "x": 7,
+          "y": 9,
+          "w": 5,
+          "h": 4,
+          "fx": 0.2964939024390244,
+          "fw": 0.34603658536585363,
+          "fy": 0,
+          "fh": 143
+        },
+        {
+          "id": "card-mrxmcb0i-2798",
+          "x": 0,
+          "y": 3,
+          "kind": "text",
+          "title": "Notes",
+          "text": "",
+          "w": 4,
+          "h": 2,
+          "fx": 0.6547256097560976,
+          "fy": 0,
+          "fw": 0.34527439024390244,
+          "fh": 256
+        }
+      ]
+    },
+    {
+      "id": "dash-mrxm977r-3025",
+      "name": "Dashboard 2",
+      "cards": []
+    }
+  ],
+  "activeDashboardId": "dash-mrxlv5my-2782",
+  "pinnedCards": [],
+  "gridColumns": 12,
+  "rowHeight": 92,
+  "favorites": [],
+  "fitToPage": true,
+  "taskNotesStatusField": "status",
+  "taskNotesDueField": "due",
+  "taskNotesPriorityField": "priority",
+  "taskNotesDoneValue": "done",
+  "maxWidth": 1600,
+  "lastSeenVersion": "1.15.0"
+}

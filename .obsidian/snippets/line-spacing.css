@@ -1,0 +1,21 @@
+body {
+  /* Shrinks the main body text size */
+  --font-text-size: 14px; 
+  
+  /* Tightens the line spacing (default is around 1.5) */
+  --line-height-normal: 1.3; 
+  
+  /* Expands the writable width (default is 700px) */
+  --file-line-width: 90%; 
+}
+
+/* Reduces the spacing between paragraphs */
+p, .markdown-rendered p {
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+
+/* Optional: Shrinks headers proportionally to match the small body text */
+h1 { font-size: 1.6em; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.2em; }

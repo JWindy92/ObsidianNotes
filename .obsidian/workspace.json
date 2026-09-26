@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "c7896b9e0c4c26a2",
+        "id": "bd270f0b065b630f",
         "type": "tabs",
         "children": [
           {
-            "id": "d6986c4da2e01e05",
+            "id": "ef56ceedf277c23e",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "9498d773ccdfa674",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baby Call.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Baby Call"
+            }
+          },
+          {
+            "id": "42ea1bd8a989eef4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Interests Tracker.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Interests Tracker"
+            }
+          },
+          {
+            "id": "8fdf8a932adbccd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/The GATE Program Conspiracy.md",
+                "file": "Projects/Home Server Data Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The GATE Program Conspiracy"
+              "title": "Home Server Data Management"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/The GATE Program Conspiracy.md",
+                "file": "2026-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The GATE Program Conspiracy"
+              "title": "Backlinks for 2026-07-10"
             }
           },
           {
@@ -164,13 +209,43 @@
               "icon": "lucide-list",
               "title": "Outline of The GATE Program Conspiracy"
             }
+          },
+          {
+            "id": "67d1f1360747fd28",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "ab10d7dfd8ed6bf3",
+            "type": "leaf",
+            "state": {
+              "type": "planner-time-tracker",
+              "state": {},
+              "icon": "timer",
+              "title": "Time Tracker"
+            }
+          },
+          {
+            "id": "9207d20e94b6f957",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 419.887451171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,35 +255,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "hearth:Open Hearth home": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6986c4da2e01e05",
+  "active": "9498d773ccdfa674",
   "lastOpenFiles": [
+    "Creative",
+    "Projects/Home Server Data Management.md",
+    "Archive/Mower Removal.md",
+    "Baby Call.md",
+    "Archive/Bedroom TV.md",
+    "Notes/Interests Tracker.md",
+    "Notes/Victorian Flagellation Literature.md",
+    "Notes/The Erotic Mind — Jack Morin.md",
+    "Assets/LinkedIn Prebake.md",
+    "Master Todo.md",
+    "2026-07-10.md",
+    "2026-06-29.md",
+    "Test Note.md",
+    "Education Research.md",
+    "Daily/2026-09-23.md",
+    "Daily/2026-07-23.md",
+    "Projects/Electrician Research.md",
+    "Daily",
+    "2026-07-23.md",
+    "Foam Power User Setup Plan.md",
+    "Projects/Summer 2026 Home Improvement Planning.md",
+    "Notes/The GATE Program Conspiracy.md",
     "Resources/Topics/History of Streetlamps.md",
     "Resources/Topics/Sports Data Analysis — Soccer.md",
     "Resources/Topics/Local Government.md",
     "Projects/Future Automations.md",
     "Archive/TabCleanup20261226.md",
-    "Inbox/TODO — Buy Jaws Quint T-Shirt.md",
-    "Inbox/TODO — Read XDA Article on Native PC Ports & Decompilation.md",
-    "Notes/Father Gabriel Amorth — Exorcist.md",
-    "Notes/The Erotic Mind — Jack Morin.md",
-    "Notes/Ero Guro Cinema.md",
-    "Notes/Lukas Moodysson — Director & Poet.md",
-    "Notes/The GATE Program Conspiracy.md",
-    "Notes/Anton LaVey & The Satanic Bible.md",
-    "Notes/Victorian Flagellation Literature.md",
-    "Resources/Topics/Nihilist Literature.md",
-    "Test Note.md",
-    "Resources/Topics/LA Water History & Spillways.md",
-    "Resources/Reading List.md",
     "Resources/Topics",
-    "TabCleanup20261226.md",
-    "Journal/2026-06-12.md",
-    "Resources/Mermaid Diagrams — Demo and Reference.md",
-    "Resources/My Note-Taking Methodology.md",
-    "Resources/How to Create Note Templates.md",
     "Templates",
     "Archive",
     "Assets",
@@ -216,9 +299,6 @@
     "Notes",
     "Resources",
     "Areas",
-    "Projects",
-    "Inbox",
-    "Foam Power User Setup Plan.md",
-    "Welcome.md"
+    "Projects"
   ]
 }
