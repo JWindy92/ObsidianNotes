@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Learning"
             }
+          },
+          {
+            "id": "4cf6e8e4eb8bf8c4",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,15 +234,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef56ceedf277c23e",
+  "active": "4cf6e8e4eb8bf8c4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Journal/Learning.md",
+    "Research/Ero Guro Cinema.md",
+    "Research",
+    "Research Topics.md",
+    "Reference/Education Research.md",
+    "Notes/Baby Call.md",
+    "Daily/2026-06-29.md",
     "Baby Call.md",
     "Journal/Directory of Personal Interests.md",
     "Creative/Recipes/Foccacia Bread.md",
-    "conflict-files-obsidian-git.md",
     "Reference/Fusion 360.md",
     "Reference",
-    "Journal/Learning.md",
     "Daily/2026-09-28.md",
     "Projects/Electrician Research.md",
     "Projects/Future Automations.md",
@@ -245,17 +266,11 @@
     "Test Note.md",
     "Education Research.md",
     "Daily/2026-09-23.md",
-    "Daily/2026-07-23.md",
     "Daily",
-    "2026-07-23.md",
-    "Foam Power User Setup Plan.md",
-    "Projects/Summer 2026 Home Improvement Planning.md",
-    "Notes/The GATE Program Conspiracy.md",
     "Resources/Topics",
     "Templates",
     "Archive",
     "Assets",
-    "Journal",
-    "Notes"
+    "Journal"
   ]
 }

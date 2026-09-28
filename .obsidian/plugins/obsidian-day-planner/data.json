@@ -33,11 +33,11 @@
   "eventFormatOnCreation": "task",
   "sortTasksInPlanAfterEdit": false,
   "firstDayOfWeek": "monday",
-  "multiDayRange": "3-days",
+  "multiDayRange": "full-week",
   "showTimelineInSidebar": true,
   "showActiveClockInStatusBar": true,
   "timelineColumns": {
     "planner": true,
-    "timeTracker": false
+    "timeTracker": true
   }
 }
