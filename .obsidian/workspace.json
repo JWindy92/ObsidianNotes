@@ -11,14 +11,24 @@
             "id": "620bca7c48eaae10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Daily/2026-09-28.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-09-28"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "52c15a8ac8fb0864",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Sep, 28–Sep, 30"
             }
           }
         ]
@@ -221,8 +231,11 @@
   },
   "active": "620bca7c48eaae10",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Journal/Learning.md",
+    "Reference/Fusion 360.md",
+    "Daily/2026-09-28.md",
+    "Journal/Directory of Personal Interests.md",
+    "conflict-files-obsidian-git.md",
     "Research/Ero Guro Cinema.md",
     "Research",
     "Research Topics.md",
@@ -230,11 +243,8 @@
     "Notes/Baby Call.md",
     "Daily/2026-06-29.md",
     "Baby Call.md",
-    "Journal/Directory of Personal Interests.md",
     "Creative/Recipes/Foccacia Bread.md",
-    "Reference/Fusion 360.md",
     "Reference",
-    "Daily/2026-09-28.md",
     "Projects/Electrician Research.md",
     "Projects/Future Automations.md",
     "Projects/Home Server Data Management.md",
