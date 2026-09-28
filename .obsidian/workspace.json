@@ -34,6 +34,21 @@
             }
           },
           {
+            "id": "ed4ef4f2cc2cae49",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "2026-07-10.md",
+                "bFile": "2026-07-10.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2026-07-10  (Index)"
+            }
+          },
+          {
             "id": "42ea1bd8a989eef4",
             "type": "leaf",
             "pinned": true,
@@ -80,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,12 +293,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9498d773ccdfa674",
+  "active": "ed4ef4f2cc2cae49",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Baby Call.md",
+    "Reference/Fusion 360.md",
+    "Reference",
+    "Journal/Learning.md",
+    "Daily/2026-09-28.md",
     "Creative/Recipes/Foccacia Bread.md",
     "Projects/Electrician Research.md",
     "Projects/Future Automations.md",
-    "Baby Call.md",
     "Journal/Directory of Personal Interests.md",
     "Projects/Home Server Data Management.md",
     "Creative/Recipes",
@@ -305,16 +325,11 @@
     "Foam Power User Setup Plan.md",
     "Projects/Summer 2026 Home Improvement Planning.md",
     "Notes/The GATE Program Conspiracy.md",
-    "Resources/Topics/History of Streetlamps.md",
-    "Resources/Topics/Sports Data Analysis — Soccer.md",
-    "Resources/Topics/Local Government.md",
-    "Archive/TabCleanup20261226.md",
     "Resources/Topics",
     "Templates",
     "Archive",
     "Assets",
     "Journal",
-    "Notes",
-    "Resources"
+    "Notes"
   ]
 }
