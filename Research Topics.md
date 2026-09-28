@@ -1,0 +1,10 @@
+### [[2026-09-28]]
+
+What is a Copernican Shift?
+- Spellcheck!
+- Who was Copernicus?
+- What is the "shift"
+	- What makes it Copernican?
+
+
+
