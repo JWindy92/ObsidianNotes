@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Learning"
             }
+          },
+          {
+            "id": "cf99e5da47652bdb",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,11 +246,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fa8893baaef3487",
+  "active": "cf99e5da47652bdb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Journal/Learning.md",
     "git plugin.md",
     "Research Topics.md",
-    "Journal/Learning.md",
     "Reference/Obsidian.md",
     "Daily/2026-09-28.md",
     "Daily/Mon_2026-09-28.md",
@@ -262,7 +278,6 @@
     "Notes/Lukas Moodysson — Director & Poet.md",
     "Notes/Father Gabriel Amorth — Exorcist.md",
     "Notes/Anton LaVey & The Satanic Bible.md",
-    "Notes/Baby Call.md",
     "Research",
     "Creative/Recipes",
     "Creative",
