@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bd270f0b065b630f",
+        "id": "f47171527ff281b4",
         "type": "tabs",
         "children": [
           {
-            "id": "ef56ceedf277c23e",
-            "type": "leaf",
-            "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "9498d773ccdfa674",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Baby Call.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Baby Call"
-            }
-          },
-          {
-            "id": "42ea1bd8a989eef4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Interests Tracker.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Interests Tracker"
-            }
-          },
-          {
-            "id": "8fdf8a932adbccd4",
+            "id": "9ae1192c3d3e8fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Home Server Data Management.md",
+                "file": "Journal/Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Server Data Management"
+              "title": "Learning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -226,8 +181,8 @@
             "state": {
               "type": "planner-time-tracker",
               "state": {},
-              "icon": "timer",
-              "title": "Time Tracker"
+              "icon": "lucide-ghost",
+              "title": "planner-time-tracker"
             }
           },
           {
@@ -239,13 +194,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e884d3efe820b717",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 419.887451171875
+    "width": 655.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,12 +227,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9498d773ccdfa674",
+  "active": "9ae1192c3d3e8fe2",
   "lastOpenFiles": [
+    "Daily/2026-09-28.md",
+    "Journal/Learning.md",
+    "Reference/Fusion 360.md",
+    "Reference/Untitled",
+    "Reference",
+    "Baby Call.md",
     "Creative",
     "Projects/Home Server Data Management.md",
     "Archive/Mower Removal.md",
-    "Baby Call.md",
     "Archive/Bedroom TV.md",
     "Notes/Interests Tracker.md",
     "Notes/Victorian Flagellation Literature.md",
@@ -289,16 +259,11 @@
     "Resources/Topics/History of Streetlamps.md",
     "Resources/Topics/Sports Data Analysis — Soccer.md",
     "Resources/Topics/Local Government.md",
-    "Projects/Future Automations.md",
-    "Archive/TabCleanup20261226.md",
     "Resources/Topics",
     "Templates",
     "Archive",
     "Assets",
     "Journal",
-    "Notes",
-    "Resources",
-    "Areas",
-    "Projects"
+    "Notes"
   ]
 }
