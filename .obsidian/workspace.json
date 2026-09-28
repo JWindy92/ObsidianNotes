@@ -24,21 +24,7 @@
             }
           },
           {
-            "id": "cf99e5da47652bdb",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "fec029eab9516407",
+            "id": "d8e03428c4085235",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -52,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fec029eab9516407",
+  "active": "d8e03428c4085235",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Journal/Learning.md",
