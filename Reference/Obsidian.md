@@ -1,3 +1,5 @@
+
+
 Setup Git Plugin ^9190a4
 - Note on Windows/WSL troubleshooting
 	- Ensure ssh key copied to windows ~/.shh folder from WSL ~/.ssh directory so Obsidian can see it.
