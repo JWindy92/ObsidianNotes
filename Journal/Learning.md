@@ -11,4 +11,9 @@
 	- Rearranging timeline to achieve desired outcome (Filet before a shell, for example)
 	- Appearances (glass)
 
+[[Obsidian]]
+- Configured [[Obsidian#^9190a4|git plugin]] for version controlled management of notes
+- Learned [[Obsidian#^d61955|how to create links to specific lines/blocks]] in Obsidian
+
+
 

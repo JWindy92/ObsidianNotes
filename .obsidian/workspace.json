@@ -10,11 +10,17 @@
           {
             "id": "7fa8893baaef3487",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Learning"
             }
           }
         ]
@@ -225,11 +231,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9207d20e94b6f957",
+  "active": "7fa8893baaef3487",
   "lastOpenFiles": [
-    "Daily/2026-09-23.md",
-    "Daily/2026-09-28.md",
+    "git plugin.md",
+    "Research Topics.md",
     "Journal/Learning.md",
+    "Reference/Obsidian.md",
+    "Daily/2026-09-28.md",
+    "Daily/Mon_2026-09-28.md",
+    "Daily/Mon Sep 28 2026.md",
+    "Mon Sep 28 2026.md",
+    "Daily/2026-09-23.md",
     "Journal/Directory of Personal Interests.md",
     "Daily/2026-07-23.md",
     "Reference/Fusion 360.md",
@@ -237,7 +249,6 @@
     "Daily/2026-06-29.md",
     "Reference/Education Research.md",
     "Research/Ero Guro Cinema.md",
-    "Research Topics.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Resources/How to Create Note Templates.md",
@@ -253,11 +264,6 @@
     "Notes/Anton LaVey & The Satanic Bible.md",
     "Notes/Baby Call.md",
     "Research",
-    "2026-07-10.md",
-    "conflict-files-obsidian-git.md",
-    "Welcome.md",
-    "Master Todo.md",
-    "Test Note.md",
     "Creative/Recipes",
     "Creative",
     "Reference/Untitled",
