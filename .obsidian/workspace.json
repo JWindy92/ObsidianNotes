@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Obsidian.md",
+                "file": "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "Rod of Iron Ministries"
             }
           }
         ],
@@ -236,8 +236,11 @@
   },
   "active": "52c15a8ac8fb0864",
   "lastOpenFiles": [
-    "Journal/Learning.md",
+    "Research/Cults and High Control Group Resources.md",
+    "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
+    "Research/Cults and High Control Groups",
     "Reference/Obsidian.md",
+    "Journal/Learning.md",
     "conflict-files-obsidian-git.md",
     "Reference/Fusion 360.md",
     "Daily/2026-09-28.md",
@@ -264,13 +267,10 @@
     "Assets/LinkedIn Prebake.md",
     "2026-07-10.md",
     "2026-06-29.md",
-    "Test Note.md",
-    "Education Research.md",
     "Daily",
     "Resources/Topics",
     "Templates",
     "Archive",
-    "Assets",
-    "Journal"
+    "Assets"
   ]
 }
