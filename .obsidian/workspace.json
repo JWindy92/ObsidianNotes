@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Learning"
             }
+          },
+          {
+            "id": "79da585ec9017849",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,10 +246,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9207d20e94b6f957",
+  "active": "79da585ec9017849",
   "lastOpenFiles": [
-    "Journal/Learning.md",
     "conflict-files-obsidian-git.md",
+    "Journal/Learning.md",
+    "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
+    "Research/Cults and High Control Groups",
+    "Research/Cults and High Control Group Resources.md",
     "git plugin.md",
     "Research Topics.md",
     "Reference/Obsidian.md",
@@ -261,15 +279,12 @@
     "Notes/The GATE Program Conspiracy.md",
     "Notes/The Erotic Mind — Jack Morin.md",
     "Notes/Lukas Moodysson — Director & Poet.md",
-    "Notes/Father Gabriel Amorth — Exorcist.md",
-    "Notes/Anton LaVey & The Satanic Bible.md",
     "Research",
     "Creative/Recipes",
     "Creative",
     "Reference/Untitled",
     "Reference",
     "Daily",
-    "Resources/Topics",
-    "Resources/Templates"
+    "Resources/Topics"
   ]
 }
