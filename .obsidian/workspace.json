@@ -24,13 +24,17 @@
             }
           },
           {
-            "id": "14858a99950ef5b5",
+            "id": "ff922e84158b3f5d",
             "type": "leaf",
             "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal",
-              "title": "Home"
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-10-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-04"
             }
           }
         ],
@@ -242,9 +246,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14858a99950ef5b5",
+  "active": "ff922e84158b3f5d",
   "lastOpenFiles": [
     "Journal/Learning.md",
+    "Daily/2026-10-04.md",
+    "Resources/Reading List.md",
     "conflict-files-obsidian-git.md",
     "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
     "Research/Cults and High Control Groups",
@@ -273,8 +279,6 @@
     "Notes/Victorian Flagellation Literature.md",
     "Foam Power User Setup Plan.md",
     "Notes/The GATE Program Conspiracy.md",
-    "Notes/The Erotic Mind — Jack Morin.md",
-    "Notes/Lukas Moodysson — Director & Poet.md",
     "Research",
     "Creative/Recipes",
     "Creative",
