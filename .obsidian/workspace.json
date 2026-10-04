@@ -22,8 +22,19 @@
               "icon": "lucide-file",
               "title": "Learning"
             }
+          },
+          {
+            "id": "14858a99950ef5b5",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,10 +242,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9207d20e94b6f957",
+  "active": "14858a99950ef5b5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Journal/Learning.md",
+    "conflict-files-obsidian-git.md",
     "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
     "Research/Cults and High Control Groups",
     "Research/Cults and High Control Group Resources.md",
