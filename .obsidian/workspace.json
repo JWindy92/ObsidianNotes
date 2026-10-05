@@ -39,28 +39,18 @@
             "id": "ede5bdbe0007d5c2",
             "type": "leaf",
             "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "3a3201ca57a381cb",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Manual Verification Reinsert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Manual Verification Reinsert"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,10 +248,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a3201ca57a381cb",
+  "active": "ede5bdbe0007d5c2",
   "lastOpenFiles": [
+    "Manual Verification Reinsert.md",
     "Pasted image 20261005115948.png",
-    "Untitled.md",
     "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
     "Research/Cults and High Control Group Resources.md",
     "Research/Cults and High Control Groups",
