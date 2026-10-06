@@ -4,67 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b11fc3ae40c9d78c",
+        "id": "bef7d65ba7bd088f",
         "type": "tabs",
         "children": [
           {
-            "id": "620bca7c48eaae10",
+            "id": "7fa8893baaef3487",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Journal/Learning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Learning"
             }
           },
           {
-            "id": "52c15a8ac8fb0864",
+            "id": "ff922e84158b3f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
+                "file": "Daily/2026-10-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rod of Iron Ministries"
-            }
-          },
-          {
-            "id": "ede5bdbe0007d5c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manual Verification Reinsert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manual Verification Reinsert"
-            }
-          },
-          {
-            "id": "58abcc1999a714d7",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "2026-10-04"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/The GATE Program Conspiracy.md",
+                "file": "Reference/Fusion 360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The GATE Program Conspiracy"
+              "title": "Outgoing links from Fusion 360"
             }
           },
           {
@@ -226,8 +200,8 @@
             "state": {
               "type": "planner-time-tracker",
               "state": {},
-              "icon": "timer",
-              "title": "Time Tracker"
+              "icon": "lucide-ghost",
+              "title": "planner-time-tracker"
             }
           },
           {
@@ -239,13 +213,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e884d3efe820b717",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 419.887451171875
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,42 +248,43 @@
   },
   "active": "9207d20e94b6f957",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Manual Verification Reinsert.md",
-    "Daily/2026-10-04.md",
     "Pasted image 20261005115948.png",
-    "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
-    "Research/Cults and High Control Group Resources.md",
-    "Research/Cults and High Control Groups",
-    "Reference/Obsidian.md",
+    "Manual Verification Reinsert.md",
     "Journal/Learning.md",
-    "Reference/Fusion 360.md",
-    "Daily/2026-09-28.md",
-    "Journal/Directory of Personal Interests.md",
-    "Research/Ero Guro Cinema.md",
-    "Research",
+    "Daily/2026-10-04.md",
+    "Resources/Reading List.md",
+    "conflict-files-obsidian-git.md",
+    "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
+    "Research/Cults and High Control Groups",
+    "Research/Cults and High Control Group Resources.md",
+    "git plugin.md",
     "Research Topics.md",
-    "Reference/Education Research.md",
-    "Notes/Baby Call.md",
-    "Daily/2026-06-29.md",
-    "Baby Call.md",
+    "Reference/Obsidian.md",
+    "Daily/2026-09-28.md",
+    "Daily/Mon_2026-09-28.md",
+    "Daily/Mon Sep 28 2026.md",
+    "Mon Sep 28 2026.md",
+    "Daily/2026-09-23.md",
+    "Journal/Directory of Personal Interests.md",
+    "Daily/2026-07-23.md",
+    "Reference/Fusion 360.md",
     "Creative/Recipes/Foccacia Bread.md",
-    "Reference",
-    "Projects/Electrician Research.md",
-    "Projects/Future Automations.md",
-    "Projects/Home Server Data Management.md",
-    "Creative/Recipes",
-    "Master Todo.md",
-    "Creative",
-    "Archive/Mower Removal.md",
-    "Archive/Bedroom TV.md",
+    "Daily/2026-06-29.md",
+    "Reference/Education Research.md",
+    "Research/Ero Guro Cinema.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Resources/How to Create Note Templates.md",
+    "Untitled.base",
+    "Resources/Templates",
+    "2026-06-29.md",
     "Notes/Victorian Flagellation Literature.md",
-    "Notes/The Erotic Mind — Jack Morin.md",
-    "Assets/LinkedIn Prebake.md",
+    "Research",
+    "Creative/Recipes",
+    "Creative",
+    "Reference/Untitled",
+    "Reference",
     "Daily",
-    "Resources/Topics",
-    "Templates",
-    "Archive",
-    "Assets"
+    "Resources/Topics"
   ]
 }
