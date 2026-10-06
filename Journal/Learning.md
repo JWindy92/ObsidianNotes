@@ -20,3 +20,16 @@
 
 [[Rape Revenge Film]]
 - Elements of rape-revenge films from Carol J. Glover's [[Men, Women, & Chainsaws]]
+
+
+### [[2026-10-06]]
+
+[[Fusion 360]]
+- Learned the sweep tool to model a paperclip
+	- Sketch a path -> define circle profile at one end -> sweep -> select the path
+- Learned the loft tool
+	- Utilized offset planes to define various vertical profiles
+	- Used sketch > intersect to define some center geometry points
+	- Drew lines through each point, mirror across centerline
+	- Loft > Select profiles in order > Add guide lines for structure
+
