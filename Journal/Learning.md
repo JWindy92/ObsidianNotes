@@ -16,4 +16,7 @@
 - Learned [[Obsidian#^d61955|how to create links to specific lines/blocks]] in Obsidian
 
 
+### [[2026-10-01]]
 
+[[Rape Revenge Film]]
+- Elements of rape-revenge films from Carol J. Glover's [[Men, Women, & Chainsaws]]

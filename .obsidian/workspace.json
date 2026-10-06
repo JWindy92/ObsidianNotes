@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Manual Verification Reinsert"
             }
+          },
+          {
+            "id": "58abcc1999a714d7",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,16 +262,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ede5bdbe0007d5c2",
+  "active": "9207d20e94b6f957",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Manual Verification Reinsert.md",
+    "Daily/2026-10-04.md",
     "Pasted image 20261005115948.png",
     "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
     "Research/Cults and High Control Group Resources.md",
     "Research/Cults and High Control Groups",
     "Reference/Obsidian.md",
     "Journal/Learning.md",
-    "conflict-files-obsidian-git.md",
     "Reference/Fusion 360.md",
     "Daily/2026-09-28.md",
     "Journal/Directory of Personal Interests.md",
