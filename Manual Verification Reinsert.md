@@ -443,3 +443,8 @@ cli.py argument parsing
   
 
 Executing the statements is **not** implemented, `executor.py` is a placeholder. Everything this tool does is read-only.
+
+
+### Root Cause
+
+- Merged causing duplicate windows
