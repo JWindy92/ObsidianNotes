@@ -20,8 +20,45 @@
               "icon": "lucide-file",
               "title": "Manual Verification Reinsert"
             }
+          },
+          {
+            "id": "918c326e6e3ad9bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
+            "id": "2613457c9e363fba",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "3ff9fd3258e7ac73",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Manual Verification Reinsert.md",
+                "bFile": "Manual Verification Reinsert.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Manual Verification Reinsert  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,11 +256,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ede5bdbe0007d5c2",
+  "active": "3ff9fd3258e7ac73",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Manual Verification Reinsert.md",
     "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
-    "conflict-files-obsidian-git.md",
     "Daily/2026-10-04.md",
     "Pasted image 20261005115948.png",
     "Research/Cults and High Control Group Resources.md",
