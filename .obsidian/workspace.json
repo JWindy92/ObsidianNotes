@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "Obsidian"
             }
+          },
+          {
+            "id": "75ccc3a2141053e2",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,19 +260,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72f9d4d0a154bee6",
+  "active": "75ccc3a2141053e2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Reference/Obsidian.md",
+    "Reference/OpenBAO.md",
+    "Easy Weeknight Meals.md",
+    "Daily/2026-10-07.md",
     "Reference/Comcast/Manual Verification Reinsert.md",
     "Reference/Comcast/Untitled",
     "Reference/Comcast",
     "Inbox/TODO — Read XDA Article on Native PC Ports & Decompilation.md",
-    "conflict-files-obsidian-git.md",
     "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
     "Daily/2026-10-04.md",
     "Pasted image 20261005115948.png",
     "Research/Cults and High Control Group Resources.md",
     "Research/Cults and High Control Groups",
-    "Reference/Obsidian.md",
     "Journal/Learning.md",
     "Reference/Fusion 360.md",
     "Daily/2026-09-28.md",
@@ -279,8 +296,6 @@
     "Master Todo.md",
     "Creative",
     "Archive/Mower Removal.md",
-    "Archive/Bedroom TV.md",
-    "Notes/Victorian Flagellation Literature.md",
     "Daily",
     "Resources/Topics",
     "Templates"

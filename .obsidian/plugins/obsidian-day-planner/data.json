@@ -14,7 +14,7 @@
   "timelineStartColor": "#006466",
   "timelineEndColor": "#4d194d",
   "timestampFormat": "HH:mm",
-  "hourFormat": "H",
+  "hourFormat": "h",
   "extendDurationUntilNext": false,
   "defaultDurationMinutes": 30,
   "minimalDurationMinutes": 10,
