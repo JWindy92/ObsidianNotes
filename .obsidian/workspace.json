@@ -37,42 +37,18 @@
             "id": "2613457c9e363fba",
             "type": "leaf",
             "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "3ff9fd3258e7ac73",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Reference/Obsidian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "78151a239593b2cb",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Obsidian"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,10 +246,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78151a239593b2cb",
+  "active": "72f9d4d0a154bee6",
   "lastOpenFiles": [
+    "Reference/Comcast/Manual Verification Reinsert.md",
+    "Reference/Comcast/Untitled",
+    "Reference/Comcast",
+    "Inbox/TODO — Read XDA Article on Native PC Ports & Decompilation.md",
     "conflict-files-obsidian-git.md",
-    "Manual Verification Reinsert.md",
     "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
     "Daily/2026-10-04.md",
     "Pasted image 20261005115948.png",
@@ -302,12 +281,8 @@
     "Archive/Mower Removal.md",
     "Archive/Bedroom TV.md",
     "Notes/Victorian Flagellation Literature.md",
-    "Notes/The Erotic Mind — Jack Morin.md",
-    "Assets/LinkedIn Prebake.md",
     "Daily",
     "Resources/Topics",
-    "Templates",
-    "Archive",
-    "Assets"
+    "Templates"
   ]
 }
