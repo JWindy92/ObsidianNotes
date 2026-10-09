@@ -23,7 +23,17 @@
 
 [[2026-10-09]]
 
-
+- Workstation setup
+	- Browser
+	- Obsidian
+	- VS Code
+		- Home Server connection
+		- data-ingest-test
+		- openbao_client
+- **Current Blocker**
+	- Need to get this Windmill script up and running. Something is wrong with the import, it doesn't seem to be resolving. Need to investigate further and get this up and running as a POC
+- Next milestone 
+	- After the above POC, create a managed job not written/maintained via the Windmill editor. This should be possible, just need to understand how it's all wired together
 
 
 
