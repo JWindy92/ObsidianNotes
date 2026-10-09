@@ -24,73 +24,23 @@
             }
           },
           {
-            "id": "4fc280bac7d7ec17",
+            "id": "93b60ab3337b0dae",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-10-07.md",
+                "file": "Projects/Personal Data Hub/Log - Personal Data Hub.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-10-07"
-            }
-          },
-          {
-            "id": "db9c1d6f3ebbe0d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/Fusion 360.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fusion 360"
-            }
-          },
-          {
-            "id": "2a37d9057a48d618",
-            "type": "leaf",
-            "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "120f1ff348aec09a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/OpenBAO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OpenBAO"
-            }
-          },
-          {
-            "id": "6a8027e26bcadac0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
+              "title": "Log - Personal Data Hub"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -298,46 +248,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a8027e26bcadac0",
+  "active": "93b60ab3337b0dae",
   "lastOpenFiles": [
-    "Reference/Education Research.md",
+    "Creative/Recipes/Foccacia Bread.md",
+    "Projects/Personal Data Hub/Log - Personal Data Hub.md",
+    "Projects/Home Assistant/Future Automations.md",
+    "Projects/Home Improvement",
+    "Projects/Home Assistant",
+    "Projects/Home Improvement/Electrician Research.md",
+    "Projects/Home Server.md",
+    "Archive/Summer 2026 Home Improvement Planning.md",
+    "Projects/Personal Data Hub/Overview - Personal Data Hub.md",
     "Reference/OpenBAO.md",
+    "Projects/Personal Data Hub",
+    "Projects/Home Server Data Management.md",
+    "Journal/Learning.md",
+    "Daily/2026-10-07.md",
+    "Reference/Fusion 360.md",
+    "Daily/2026-09-28.md",
+    "Daily/2026-10-04.md",
+    "conflict-files-obsidian-git.md",
+    "Reference/Comcast/Manual Verification Reinsert.md",
+    "Reference/Comcast",
+    "Reference/Education Research.md",
     "Easy Weeknight Meals.md",
     "Reference/Obsidian.md",
-    "Reference/Fusion 360.md",
-    "Daily/2026-10-07.md",
     "Research/Cults and High Control Group Resources.md",
-    "conflict-files-obsidian-git.md",
-    "Journal/Learning.md",
     "Manual Verification Reinsert.md",
     "Pasted image 20261005115948.png",
-    "Daily/2026-10-04.md",
     "Resources/Reading List.md",
     "Research/Cults and High Control Groups/Rod of Iron Ministries.md",
     "Research/Cults and High Control Groups",
     "git plugin.md",
     "Research Topics.md",
-    "Daily/2026-09-28.md",
     "Daily/Mon_2026-09-28.md",
-    "Daily/Mon Sep 28 2026.md",
-    "Mon Sep 28 2026.md",
-    "Daily/2026-09-23.md",
-    "Journal/Directory of Personal Interests.md",
-    "Daily/2026-07-23.md",
-    "Creative/Recipes/Foccacia Bread.md",
-    "Daily/2026-06-29.md",
-    "Research/Ero Guro Cinema.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Resources/How to Create Note Templates.md",
     "Untitled.base",
     "Resources/Templates",
     "Research",
     "Creative/Recipes",
-    "Creative",
-    "Reference/Untitled",
-    "Reference",
-    "Daily",
-    "Resources/Topics"
+    "Creative"
   ]
 }

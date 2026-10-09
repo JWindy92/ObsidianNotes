@@ -1,0 +1,30 @@
+
+### Points of Friction
+- Context switching: difficulty jumping back in due to unfamiliarity with systems
+	- Need to document important processes and add helpers/shortcuts where applicable
+
+---
+
+#### [[2026-10-05]] - Getting started
+- Configured and organized directory structure on home server
+- Created required volumes and `docker-compose.yml` files for Windmill and OpenBAO
+- Wrote reusable OpenBAO python package, to be shared by future jobs for access to OpenBAO for secrets
+- Created a POC data-ingest-example repo to test github dependency integration with Windmill job
+- Next steps
+	- Need to confirm my understanding of the github dependency management
+	- Create job for ingestion of real data
+		- Start with letterboxd diary?
+	- Solidify directory structure and organization
+	- Write basic documentation on conventions and processes for creating and maintaining various pieces of infrastructure
+		- Windmill
+		- OpenBAO & Policies
+		- Data pipeline jobs
+	- Explore GHA for performing various tasks to help with deployments, etc.
+
+[[2026-10-09]]
+
+
+
+
+
+
