@@ -11,3 +11,5 @@ director:
 - Linda Hamilton
 	- Pre Terminator?
 	- School is out performance. very nice
+- Completely forgot they fuggin nail that kid
+	- 
