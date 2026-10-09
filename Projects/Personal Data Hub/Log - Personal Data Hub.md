@@ -32,6 +32,10 @@
 		- openbao_client
 - **Current Blocker**
 	- Need to get this Windmill script up and running. Something is wrong with the import, it doesn't seem to be resolving. Need to investigate further and get this up and running as a POC
+	- SOLVED
+		- Bad syntax in the import
+			- Before: `openbao-client @ git+https://...`
+			- After: `openbao-client@git+https://...`
 - Next milestone 
 	- After the above POC, create a managed job not written/maintained via the Windmill editor. This should be possible, just need to understand how it's all wired together
 
