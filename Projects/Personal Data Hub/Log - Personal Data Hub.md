@@ -39,6 +39,11 @@
 - Next milestone 
 	- After the above POC, create a managed job not written/maintained via the Windmill editor. This should be possible, just need to understand how it's all wired together
 
+- After successful dependency resolution test, moving on to maintaining and deploying a job independent of the Windmill UI. 
+	- Utilizing wmill cli for deployment
+	- Later can automate via CI/CD
+- 
+
 
 
 
