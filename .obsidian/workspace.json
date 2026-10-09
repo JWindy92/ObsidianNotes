@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "OpenBAO"
             }
+          },
+          {
+            "id": "6a8027e26bcadac0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -286,7 +298,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "120f1ff348aec09a",
+  "active": "6a8027e26bcadac0",
   "lastOpenFiles": [
     "Reference/Education Research.md",
     "Reference/OpenBAO.md",
