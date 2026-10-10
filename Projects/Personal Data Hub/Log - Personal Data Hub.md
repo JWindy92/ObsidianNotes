@@ -47,7 +47,13 @@
 [[2026-10-10]]
 
 - Today's Objective: Stand up GHA runner on server. Ensure it can build and deploy the windmill-workspace repo for automated deployments
+- With help of ChatGPT was able to reverse engineer old GHA runner experiment and get it up and running, was able to get up and running pretty quick
 
+```
+gha-self-hosted-runner  | Current runner version: '2.338.0'
+gha-self-hosted-runner  | 2026-10-10 12:51:03Z: Listening for Jobs
+gha-self-hosted-runner  | 2026-10-10 12:54:38Z: Running job: test
+gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: Succeeded
+```
 
-
-
+- 
