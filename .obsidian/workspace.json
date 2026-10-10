@@ -38,23 +38,9 @@
               "icon": "lucide-file",
               "title": "Log - Personal Data Hub"
             }
-          },
-          {
-            "id": "e564edc587a020ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Cults and High Control Group Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cults and High Control Group Resources"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,11 +249,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e564edc587a020ff",
+  "active": "93b60ab3337b0dae",
   "lastOpenFiles": [
-    "Reference/Data Visualization Stack.md",
+    "Reference/Streamlit.md",
     "Projects/Personal Data Hub/Log - Personal Data Hub.md",
-    "Projects/Personal Data Hub/Letterboxd Observatory — Visualization Tech Stack.md",
+    "Reference/Data Visualization Stack.md",
+    "Projects/Personal Data Hub/Letterboxd/Letterboxd Observatory — Visualization Tech Stack.md",
+    "Research/Cults and High Control Group Resources.md",
     "Projects/Personal Data Hub/Untitled.md",
     "Projects/Personal Data Hub/Letterboxd",
     "Projects/Personal Data Hub/Windmill Pipeline Deployment.md",
@@ -294,7 +282,6 @@
     "conflict-files-obsidian-git.md",
     "Reference/Comcast/Manual Verification Reinsert.md",
     "Reference/Comcast",
-    "Reference/Education Research.md",
     "Pasted image 20261005115948.png",
     "Research/Cults and High Control Groups",
     "Untitled 1.canvas",

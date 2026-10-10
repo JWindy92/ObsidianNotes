@@ -59,3 +59,9 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 - After getting self-hosted runner set up, we created a deployment workflow for the `windmill-workspace` repository that deploys new scripts to our windmill instance automatically
 - Working on adapting old letterboxd script to a data pipeline
 	- BLOCKER: requests seem to be blocked by CloudFlare, I suspect they locked this method down. Exploring alternative options, such as Playwright, to simulate normal browser activity
+
+- Turns out LB exposes an RSS endpoint for every user. It only provides the last 50 entries, but is a good solution for continuous updates.
+- Todo:
+	- Display data on basic [[streamlit]] dashboard
+	- Write rows to DB rather than local JSON
+	- Add script to ingest historical backfill from manually downloaded file
