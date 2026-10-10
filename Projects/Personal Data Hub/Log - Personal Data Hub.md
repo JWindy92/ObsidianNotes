@@ -62,6 +62,6 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 
 - Turns out LB exposes an RSS endpoint for every user. It only provides the last 50 entries, but is a good solution for continuous updates.
 - Todo:
-	- Display data on basic [[streamlit]] dashboard
-	- Write rows to DB rather than local JSON
-	- Add script to ingest historical backfill from manually downloaded file
+	- [x] Display data on basic [[streamlit]] dashboard ✅ 2026-10-10
+	- [ ] Write rows to DB rather than local JSON
+	- [ ] Add script to ingest historical backfill from manually downloaded file
