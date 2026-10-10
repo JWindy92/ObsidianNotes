@@ -7,3 +7,6 @@
 
 ---
 
+### Ideas
+- **Bark**: iOS app for custom push notifications
+- 
