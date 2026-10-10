@@ -42,7 +42,11 @@
 - After successful dependency resolution test, moving on to maintaining and deploying a job independent of the Windmill UI. 
 	- Utilizing wmill cli for deployment
 	- Later can automate via CI/CD
-- 
+- Before continuing, it would be nice to have some kind of automation around deployment. I am going to explore hosting a self-hosted GHA runner on my server to handle automated builds and deployments
+
+[[2026-10-10]]
+
+- Today's Objective: Stand up GHA runner on server. Ensure it can build and deploy the windmill-workspace repo for automated deployments
 
 
 
