@@ -40,45 +40,21 @@
             }
           },
           {
-            "id": "246f0b1dd238d0e0",
+            "id": "e564edc587a020ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Home Server Service Directory.md",
+                "file": "Research/Cults and High Control Group Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Server Service Directory"
-            }
-          },
-          {
-            "id": "f2d02444d9d10ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Personal Data Hub/Overview - Personal Data Hub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview - Personal Data Hub"
-            }
-          },
-          {
-            "id": "e08aba9d517b944e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Cults and High Control Group Resources"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.81703186035156
   },
   "right": {
     "id": "74d21db092ed5d22",
@@ -269,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,14 +263,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e08aba9d517b944e",
+  "active": "e564edc587a020ff",
   "lastOpenFiles": [
+    "Reference/Data Visualization Stack.md",
+    "Projects/Personal Data Hub/Log - Personal Data Hub.md",
     "Projects/Personal Data Hub/Letterboxd Observatory — Visualization Tech Stack.md",
     "Projects/Personal Data Hub/Untitled.md",
     "Projects/Personal Data Hub/Letterboxd",
-    "Projects/Untitled.md",
     "Projects/Personal Data Hub/Windmill Pipeline Deployment.md",
-    "Projects/Personal Data Hub/Log - Personal Data Hub.md",
     "Reference/Home Server Service Directory.md",
     "Projects/Personal Data Hub/Overview - Personal Data Hub.md",
     "Children Of The Corn.md",
