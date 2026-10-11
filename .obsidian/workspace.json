@@ -40,16 +40,6 @@
             }
           },
           {
-            "id": "871cc979f704f672",
-            "type": "leaf",
-            "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal",
-              "title": "Home"
-            }
-          },
-          {
             "id": "fd93a48dd276bb27",
             "type": "leaf",
             "pinned": true,
@@ -63,6 +53,16 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Tasks"
+            }
+          },
+          {
+            "id": "e61f068913e16d00",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
             }
           },
           {
@@ -80,9 +80,37 @@
               "icon": "lucide-file",
               "title": "Productivity Problems and Points of Friction"
             }
+          },
+          {
+            "id": "a9809bd63a78b70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Personal Data Hub/Log - Personal Data Hub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Log - Personal Data Hub"
+            }
+          },
+          {
+            "id": "5b6831cedc4745b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Streamlit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Streamlit"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,8 +165,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,13 +185,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -289,12 +316,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "871cc979f704f672",
+  "active": "e61f068913e16d00",
   "lastOpenFiles": [
-    "Projects/Personal Data Hub/Log - Personal Data Hub.md",
-    "Notes/Productivity Problems and Points of Friction.md",
-    "Reference/Streamlit.md",
     "Inbox/Tasks.md",
+    "Projects/Personal Data Hub/Log - Personal Data Hub.md",
+    "Reference/Streamlit.md",
+    "Notes/Productivity Problems and Points of Friction.md",
     "Daily/2026-10-04.md",
     "Creative/Recipes/Foccacia Bread.md",
     "Daily/2026-10-11.md",

@@ -63,19 +63,20 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 - Turns out LB exposes an RSS endpoint for every user. It only provides the last 50 entries, but is a good solution for continuous updates.
 - Todo:
 	- [x] #task Display data on basic [[streamlit]] dashboard ✅ 2026-10-10
-	- [ ] #task/letterboxd Write letterboxd data to DB rather than local JSON
-	- [ ] #task/letterboxd Add script to ingest historical backfill from manually downloaded file
+	- [ ] #task/letterboxd Write letterboxd data to DB rather than local JSON 🔽 
+	- [ ] #task/letterboxd Add script to ingest historical backfill from manually downloaded file 🔼 
 - Progress
 	- Got GHA runner up and running for windmill-workspace repo
 	- Successfully built new version of letterboxd extract process that uses the public RSS feed of my profile to return movie data
 		- Currently saves to plain json file on server.
-	- Created simple Streamlit dashboard to display data returned from letterboxd
+	- Created simple [[Streamlit]] dashboard to display data returned from letterboxd
 
 
 [[2026-10-11]]
 - Ended yesterday having gotten a good amount done. Letterboxd RSS extract up and running on an hourly schedule, populating a dashboard on my home server
 - **Minor Issue**: GHA self-hosted runners cannot run at the account level. Requires creation of GH Organization to assign a single runner to multiple repos
-	- [ ] #task Create personal GitHub organization
-	- [ ] #task Migrate repos to new organization
-- 
+	- [ ] #task Create personal GitHub organization 🆔 zusn49 🔼 
+	- [ ] #task Migrate repos to new organization 🆔 licu6q ⛔ zusn49 🔼 
+	- [ ] #task Reconfigure GHA runner to point to GitHub org ⛔ licu6q 🔼 
+-  
 
