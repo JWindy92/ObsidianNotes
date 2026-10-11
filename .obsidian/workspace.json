@@ -40,13 +40,45 @@
             }
           },
           {
-            "id": "323159caba5a71f4",
+            "id": "871cc979f704f672",
             "type": "leaf",
             "state": {
               "type": "hearth-home-view",
               "state": {},
               "icon": "hearth-crystal",
               "title": "Home"
+            }
+          },
+          {
+            "id": "fd93a48dd276bb27",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "afded489eb6b845a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Productivity Problems and Points of Friction.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Productivity Problems and Points of Friction"
             }
           }
         ],
@@ -84,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tasks/letterboxd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +137,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,9 +158,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-07-10.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -135,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-10"
+              "title": "Backlinks"
             }
           },
           {
@@ -236,12 +268,11 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,10 +289,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "323159caba5a71f4",
+  "active": "871cc979f704f672",
   "lastOpenFiles": [
     "Projects/Personal Data Hub/Log - Personal Data Hub.md",
+    "Notes/Productivity Problems and Points of Friction.md",
     "Reference/Streamlit.md",
+    "Inbox/Tasks.md",
+    "Daily/2026-10-04.md",
+    "Creative/Recipes/Foccacia Bread.md",
+    "Daily/2026-10-11.md",
+    "Research Topics.md",
+    "Projects/F1 Data Engineering",
     "Reference/Data Visualization Stack.md",
     "Projects/Personal Data Hub/Letterboxd/Letterboxd Observatory — Visualization Tech Stack.md",
     "Research/Cults and High Control Group Resources.md",
@@ -273,7 +311,6 @@
     "Children Of The Corn.md",
     "Untitled.md",
     "Projects/Home Assistant/Z-Wave Network Migration.md",
-    "Creative/Recipes/Foccacia Bread.md",
     "Projects/Home Assistant/Future Automations.md",
     "Projects/Home Improvement",
     "Projects/Home Assistant",
@@ -285,11 +322,6 @@
     "Projects/Home Server Data Management.md",
     "Journal/Learning.md",
     "Daily/2026-10-07.md",
-    "Reference/Fusion 360.md",
-    "Daily/2026-09-28.md",
-    "Daily/2026-10-04.md",
-    "conflict-files-obsidian-git.md",
-    "Reference/Comcast/Manual Verification Reinsert.md",
     "Reference/Comcast",
     "Pasted image 20261005115948.png",
     "Research/Cults and High Control Groups",
@@ -297,7 +329,6 @@
     "Untitled.canvas",
     "Untitled.base",
     "Resources/Templates",
-    "Research",
-    "Creative/Recipes"
+    "Research"
   ]
 }
