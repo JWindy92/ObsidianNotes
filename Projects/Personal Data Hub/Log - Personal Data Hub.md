@@ -78,5 +78,16 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 	- [ ] #task Create personal GitHub organization 🆔 zusn49 🔼 
 	- [ ] #task Migrate repos to new organization 🆔 licu6q ⛔ zusn49 🔼 
 	- [ ] #task Reconfigure GHA runner to point to GitHub org ⛔ licu6q 🔼 
--  
+- Today I'll export my full diary manually and then create a script to add this to the dataset utilized by the dashboard 
+- From there I'm not sure what I want to take up yet, some possibilities
+	- Add more advanced filtering/querying of letterboxd data for specific use cases
+	- I started looking into the feasibility of ingesting F1 data for high performance telemetry processing. Would be a very cool project, but complex
+		- May want to have our data ingestion workflow more solidified before jumping into the deep end with something so complicated
+	- Simple sports data. Already did some of this in `stats-n-data` repo, could easily migrate to a pipeline and get this running on a schedule
+	- Explore Bark & other forms of custom notifications
+	- Financial data (SimpleFIn)
+	- Calendar integrations
+	- Google Sheets integration
+	- [ ] #task Document data ingestion ideas somewhere to keep a running list active
+		- Automate with tag query??
 

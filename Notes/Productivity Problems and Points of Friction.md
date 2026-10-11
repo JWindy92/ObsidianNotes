@@ -1,4 +1,9 @@
-- I want to be able to view a snapshot of our financial situation so I can easily visualize our debt, income, and expenses and make quick decisions about payments, budgets, and spending
-- I want to minimize the friction of choosing a film to watch each day. It's hard to plan ahead because of various factors. Mood, time constraints, distractions, etc. 
+- I want to be able to view a snapshot of our financial situation so I can easily visualize our debt, income, and expenses and make quick decisions about payments, budgets, and spending #issue
+- I want to minimize the friction of choosing a film to watch each day. It's hard to plan ahead because of various factors. Mood, time constraints, distractions, etc. #issue
 	- Possibly can tag watchlisted movies with various attributes that attempt to describe the type of film - i.e. full focus, fun watch, classic, foreign, etc.
-- 
+
+
+```query
+tag:#issue
+```
+
