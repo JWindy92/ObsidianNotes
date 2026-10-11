@@ -38,9 +38,19 @@
               "icon": "lucide-file",
               "title": "Log - Personal Data Hub"
             }
+          },
+          {
+            "id": "323159caba5a71f4",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,10 +258,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93b60ab3337b0dae",
+  "active": "323159caba5a71f4",
   "lastOpenFiles": [
-    "Reference/Streamlit.md",
     "Projects/Personal Data Hub/Log - Personal Data Hub.md",
+    "Reference/Streamlit.md",
     "Reference/Data Visualization Stack.md",
     "Projects/Personal Data Hub/Letterboxd/Letterboxd Observatory — Visualization Tech Stack.md",
     "Research/Cults and High Control Group Resources.md",
