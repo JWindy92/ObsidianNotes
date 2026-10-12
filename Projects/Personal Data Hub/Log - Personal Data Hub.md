@@ -94,7 +94,7 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 [[2026-10-12]]
 - Goals for today
 	- [x] Add Simplefin Ingestion pipeline
-	- [ ] Display Account balances on dashboard
+	- [x] Display Account balances on dashboard (simple)
 	- [ ] Ingest full historical Letterboxd diary
 	- [ ] Document basic pipeline integration
 - [ ] #task Create pipeline boilerplate and auto initialization script
