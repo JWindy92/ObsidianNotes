@@ -98,4 +98,5 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 	- [ ] Ingest full historical Letterboxd diary
 	- [ ] Document basic pipeline integration
 - [ ] #task Create pipeline boilerplate and auto initialization script
-- 
+- Got another pipeline up and running, still very basic. Currently just very basic pulls and storing data in local flat files.
+	- Currently no data is growing in size, all pulls are overwrites. When I get full historical letterboxd data ingested, I'll likely want to begin thinking about getting the database writes working.

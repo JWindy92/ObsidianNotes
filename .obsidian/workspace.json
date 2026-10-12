@@ -47,7 +47,7 @@
               "type": "markdown",
               "state": {
                 "file": "Inbox/Tasks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Personal Data Hub/Log - Personal Data Hub.md",
+                "file": "Inbox/Tasks.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -309,11 +309,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93b60ab3337b0dae",
+  "active": "fd93a48dd276bb27",
   "lastOpenFiles": [
-    "Notes/Productivity Problems and Points of Friction.md",
-    "Inbox/Tasks.md",
     "Projects/Personal Data Hub/Log - Personal Data Hub.md",
+    "Inbox/Tasks.md",
+    "Notes/Productivity Problems and Points of Friction.md",
     "Reference/Streamlit.md",
     "Daily/2026-10-04.md",
     "Creative/Recipes/Foccacia Bread.md",
