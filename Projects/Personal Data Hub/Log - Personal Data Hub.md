@@ -91,3 +91,11 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 	- [ ] #task Document data ingestion ideas somewhere to keep a running list active
 		- Automate with tag query??
 
+[[2026-10-12]]
+- Goals for today
+	- [ ] Add Simplefin Ingestion pipeline
+	- [ ] Display Account balances on dashboard
+	- [ ] Ingest full historical Letterboxd diary
+	- [ ] Document basic pipeline integration
+- [ ] #task Create pipeline boilerplate and auto initialization script
+- 
