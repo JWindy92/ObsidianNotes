@@ -86,6 +86,16 @@
             }
           },
           {
+            "id": "484422140af584ff",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
+          },
+          {
             "id": "28106573efe2efa3",
             "type": "leaf",
             "state": {
@@ -114,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -189,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-10-12.md",
+                "file": "Projects/Personal Data Hub/Log - Personal Data Hub.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -323,11 +333,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c070c430481ca448",
+  "active": "484422140af584ff",
   "lastOpenFiles": [
-    "Inbox/Tasks.md",
-    "Daily/2026-10-12.md",
     "Projects/Personal Data Hub/Log - Personal Data Hub.md",
+    "Daily/2026-10-12.md",
+    "Inbox/Tasks.md",
     "Notes/Productivity Problems and Points of Friction.md",
     "Reference/Streamlit.md",
     "Daily/2026-10-04.md",
