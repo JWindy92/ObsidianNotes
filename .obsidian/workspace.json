@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,10 +279,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52f334e2ca667868",
+  "active": "fd93a48dd276bb27",
   "lastOpenFiles": [
-    "Inbox/Ideas.md",
     "Reference/GitHub Organization Setup.md",
+    "Inbox/Ideas.md",
     "Daily/2026-10-13.md",
     "Notes/Productivity Problems and Points of Friction.md",
     "Projects/Personal Data Hub/Log - Personal Data Hub.md",

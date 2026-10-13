@@ -75,9 +75,9 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 [[2026-10-11]]
 - Ended yesterday having gotten a good amount done. Letterboxd RSS extract up and running on an hourly schedule, populating a dashboard on my home server
 - **Minor Issue**: GHA self-hosted runners cannot run at the account level. Requires creation of GH Organization to assign a single runner to multiple repos
-	- [ ] #task Create personal GitHub organization 🆔 zusn49 🔼 
+	- [x] #task Create personal GitHub organization 🆔 zusn49 🔼 ✅ 2026-10-13
 	- [ ] #task Migrate repos to new organization 🆔 licu6q ⛔ zusn49 🔼 
-	- [ ] #task Reconfigure GHA runner to point to GitHub org ⛔ licu6q 🔼 
+	- [x] #task Reconfigure GHA runner to point to GitHub org ⛔ licu6q 🔼 ✅ 2026-10-13
 - Today I'll export my full diary manually and then create a script to add this to the dataset utilized by the dashboard 
 - From there I'm not sure what I want to take up yet, some possibilities
 	- Add more advanced filtering/querying of letterboxd data for specific use cases

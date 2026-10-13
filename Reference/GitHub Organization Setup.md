@@ -16,3 +16,7 @@ tags:
 	- Need a new PAT at the org level, created with Read/Write access for Self-Hosted runners
 		- The PAT is simply used to request a registration token, so the token doesn't need repository access. 
 		- These permissions simply allow it to request the registration token
+- Ran into a few issues with the `data-dashboard` deployment workflow. I don't believe this was working to begin with. Remediation was multi-step but all related to the internal docker/docker-compose installation and config
+	- missing `docker` & `docker-compose`
+	- had to sync docker user id with system id for socket access
+	- added bind mounts for the docker socket and `data-dashboard` service directory
