@@ -76,7 +76,7 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 - Ended yesterday having gotten a good amount done. Letterboxd RSS extract up and running on an hourly schedule, populating a dashboard on my home server
 - **Minor Issue**: GHA self-hosted runners cannot run at the account level. Requires creation of GH Organization to assign a single runner to multiple repos
 	- [x] #task Create personal GitHub organization 🆔 zusn49 🔼 ✅ 2026-10-13
-	- [ ] #task Migrate repos to new organization 🆔 licu6q ⛔ zusn49 🔼 
+	- [x] #task Migrate repos to new organization 🆔 licu6q ⛔ zusn49 🔼 ✅ 2026-10-13
 	- [x] #task Reconfigure GHA runner to point to GitHub org ⛔ licu6q 🔼 ✅ 2026-10-13
 - Today I'll export my full diary manually and then create a script to add this to the dataset utilized by the dashboard 
 - From there I'm not sure what I want to take up yet, some possibilities
@@ -95,10 +95,21 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 - Goals for today
 	- [x] Add Simplefin Ingestion pipeline
 	- [x] Display Account balances on dashboard (simple)
-	- [ ] Ingest full historical Letterboxd diary
+	- [x] Ingest full historical Letterboxd diary
 	- [ ] Document basic pipeline integration
 - [ ] #task Create pipeline boilerplate and auto initialization script
 - Got another pipeline up and running, still very basic. Currently just very basic pulls and storing data in local flat files.
 	- Currently no data is growing in size, all pulls are overwrites. When I get full historical letterboxd data ingested, I'll likely want to begin thinking about getting the database writes working.
 
 [[2026-10-13]]
+- Set up new Github Organization so self-hosted runner can run against multiple repositories
+	- Some notes on that process here: [[GitHub Organization Setup]]
+- Added a simple function read the diary.csv, de-duplicate the data from the RSS feed data and merge them together to create a complete dataset
+	- #issue `diary.csv` doesn't contain `liked` or `tmdb_id`
+		- These would be useful to have, need to see if I can get it somehow
+	- #idea/dataeng  Graph rolling average of average rating
+		- Interesting to see how "forgiving" I've been or the general quality of film I've been watching over time
+- #issue finance-pipeline failed and I had no idea. Need to be notified
+	- Looks like it timed out, which may be a separate issue with SimpleFin
+		- [ ] #task Investigate why `finance_pipeline` failed with a timeout error
+			- Just ran again normally and it ran fine. Strange. Need to keep an eye on it
