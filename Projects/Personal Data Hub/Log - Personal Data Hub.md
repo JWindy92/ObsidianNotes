@@ -88,7 +88,7 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 	- Financial data (SimpleFIn)
 	- Calendar integrations
 	- Google Sheets integration
-	- [ ] #task Document data ingestion ideas somewhere to keep a running list active
+	- [x] #task Document data ingestion ideas somewhere to keep a running list active ✅ 2026-10-13
 		- Automate with tag query??
 
 [[2026-10-12]]
@@ -100,3 +100,5 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 - [ ] #task Create pipeline boilerplate and auto initialization script
 - Got another pipeline up and running, still very basic. Currently just very basic pulls and storing data in local flat files.
 	- Currently no data is growing in size, all pulls are overwrites. When I get full historical letterboxd data ingested, I'll likely want to begin thinking about getting the database writes working.
+
+[[2026-10-13]]
