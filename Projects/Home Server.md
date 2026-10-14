@@ -1,6 +1,6 @@
 
 ### Todos
-- Clean up and reorganize structure of services
-- Implement more robust and complete monitoring
-- Figure out and finalize secure remote access via Tailscale/HTTPS
+- [ ] #task/server Clean up and reorganize structure of services
+- [ ] #task/server Implement more robust and complete monitoring
+- [ ] #task/server Figure out and finalize secure remote access via Tailscale/HTTPS
 

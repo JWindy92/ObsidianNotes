@@ -103,16 +103,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/TODO — Buy Jaws Quint T-Shirt.md",
+                "file": "Projects/Home Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO — Buy Jaws Quint T-Shirt"
+              "title": "Home Server"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -321,8 +321,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec48843ef30393dc",
+  "active": "fd93a48dd276bb27",
   "lastOpenFiles": [
+    "Projects/Home Server.md",
+    "Projects/Home Server Data Management.md",
+    "Inbox/TODO — Buy Jaws Quint T-Shirt.md",
     "Inbox/TODO — Read XDA Article on Native PC Ports & Decompilation.md",
     "Inbox/Tasks.md",
     "Inbox/Ideas.md",
@@ -331,7 +334,6 @@
     "Journal/Directory of Personal Interests.md",
     "Projects/Personal Data Hub/Windmill Pipeline Deployment.md",
     "Projects/Personal Data Hub/Overview - Personal Data Hub.md",
-    "Inbox/TODO — Buy Jaws Quint T-Shirt.md",
     "Projects/F1 Data Engineering/F1 Telemetry Checklist.md",
     "Projects/Personal Data Hub/Letterboxd/Letterboxd Observatory — Visualization Tech Stack.md",
     "Projects/Personal Data Hub/Letterboxd/Letterboxd Data Ideas.md",
@@ -347,9 +349,7 @@
     "Daily/2026-10-04.md",
     "Creative/Recipes/Foccacia Bread.md",
     "Daily/2026-10-11.md",
-    "Research Topics.md",
     "Projects/F1 Data Engineering",
-    "Reference/Data Visualization Stack.md",
     "Projects/Personal Data Hub/Letterboxd",
     "Projects/Home Improvement",
     "Projects/Home Assistant",
