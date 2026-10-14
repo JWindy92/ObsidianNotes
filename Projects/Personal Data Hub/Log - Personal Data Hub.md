@@ -113,3 +113,11 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 	- Looks like it timed out, which may be a separate issue with SimpleFin
 		- [ ] #task Investigate why `finance_pipeline` failed with a timeout error
 			- Just ran again normally and it ran fine. Strange. Need to keep an eye on it
+			- Update [[2026-10-14]]: Seems to only fail when triggered via the schedule
+				- Failed @ 12:00 AM and 8:00 AM
+				- Manual run success @ 10:23 AM
+
+[[2026-10-14]]
+- Goal for today is to simply get a bit more organized and handle some housekeeping tasks
+	- documentation
+	- 
