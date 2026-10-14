@@ -120,4 +120,7 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 [[2026-10-14]]
 - Goal for today is to simply get a bit more organized and handle some housekeeping tasks
 	- documentation
-	- 
+	- research
+- #task research Weather API/Data Sources 
+- #task research Google Sheets integration
+- #task explore various notification methods

@@ -4,7 +4,7 @@
 - Stef and I need a way to stay in sync when it comes to chores, errands, finances, upcoming expenses, etc.
 	- Needs to be easy for her to maintain, and aggregated and centralized for me to track
 	- #idea/dataeng Integrate with Google Sheets so her updates automatically show up on my dashboard
-
+- #idea/dataeng Weather and climate data
 
 ```query
 tag:#issue
