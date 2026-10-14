@@ -64,7 +64,7 @@ gha-self-hosted-runner  | 2026-10-10 12:54:41Z: Job test completed with result: 
 - Todo:
 	- [x] #task Display data on basic [[streamlit]] dashboard ✅ 2026-10-10
 	- [ ] #task/letterboxd Write letterboxd data to DB rather than local JSON 🔽 
-	- [ ] #task/letterboxd Add script to ingest historical backfill from manually downloaded file 🔼 
+	- [x] #task/letterboxd Add script to ingest historical backfill from manually downloaded file 🔼 ✅ 2026-10-14
 - Progress
 	- Got GHA runner up and running for windmill-workspace repo
 	- Successfully built new version of letterboxd extract process that uses the public RSS feed of my profile to return movie data
