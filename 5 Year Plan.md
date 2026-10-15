@@ -5,3 +5,6 @@
 - **Finances**: Financial independence, debt reduction, savings, and the freedom those provide.
 - **Interests and personal growth**: Hobbies, intellectual pursuits, creative projects, and experiences worth pursuing.
 - **Lifestyle**: How you want to spend your time, where you want to live, and what an ordinary, satisfying week looks like.
+
+
+How to identify possible topics/opportunities of analysis
