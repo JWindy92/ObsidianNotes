@@ -68,51 +68,9 @@
               "icon": "lucide-file",
               "title": "Tasks"
             }
-          },
-          {
-            "id": "4f27b979d76dd1b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Productivity Problems and Points of Friction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Productivity Problems and Points of Friction"
-            }
-          },
-          {
-            "id": "e5c0320a512c375c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/F1 Data Engineering/F1 Telemetry Checklist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "F1 Telemetry Checklist"
-            }
-          },
-          {
-            "id": "5138584b13cbd69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,14 +279,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5138584b13cbd69a",
+  "active": "c91fdae5ac30d7af",
   "lastOpenFiles": [
+    "Inbox/Productivity Problems and Points of Friction.md",
     "Projects/F1 Data Engineering/F1 Telemetry Checklist.md",
+    "Research/Sports Betting/Learning Resources.md",
+    "5 Year Plan.md",
     "Untitled 1.md",
+    "Research/Untitled.md",
+    "Research/Sports Betting",
     "Inbox/Ideas.md",
     "Inbox/Tasks.md",
     "Projects/Personal Data Hub/Log - Personal Data Hub.md",
-    "Inbox/Productivity Problems and Points of Friction.md",
     "Archive/TabCleanup20261226.md",
     "Projects/Personal Data Hub/Letterboxd/Letterboxd Data Ideas.md",
     "Projects/Home Server Data Management.md",
@@ -346,9 +308,6 @@
     "Daily/2026-10-13.md",
     "Journal/Learning.md",
     "Daily/2026-10-12.md",
-    "Untitled.md",
-    "Reference/Education Research.md",
-    "Reference/Streamlit.md",
     "Projects/F1 Data Engineering",
     "Projects/Personal Data Hub/Letterboxd",
     "Projects/Home Improvement",
@@ -360,7 +319,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled.base",
-    "Resources/Templates",
-    "Research"
+    "Resources/Templates"
   ]
 }
