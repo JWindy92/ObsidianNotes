@@ -261,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,9 +280,9 @@
   },
   "active": "92a713a013c6b691",
   "lastOpenFiles": [
+    "Inbox/Tasks.md",
     "Inbox/Ideas.md",
     "5 Year Plan.md",
-    "Inbox/Tasks.md",
     "Inbox/Productivity Problems and Points of Friction.md",
     "Projects/F1 Data Engineering/F1 Telemetry Checklist.md",
     "Research/Sports Betting/Learning Resources.md",
