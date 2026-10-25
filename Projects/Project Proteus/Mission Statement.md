@@ -1,1 +1,3 @@
-AI is changing the way the world works and it has a lot of people unsure of whether or not it's a step towards 
+I'm beginning a project to put AI technology to the test to see if it can truly demonstrate potential to make human life better. Like it or not, AI stands to disrupt a lot of industries and put a lot of people out of the jobs they make their livings on if they aren't equipped to utilize the technology. We've seen this before with the industrial revolution, and then again with the proliferation of the internet and digital technology. Those who resisted change and refused to believe in the new technology are the ones who found themselves displaced by the few that could.
+
+The aim of my project is to determine if using AI is truly a technology that can be utilized by anyone willing to put in the time and effort to adjust to the new AI driven world, or if it remains insufficient or overly cost prohibitive for the average person to utilize in an impactful way.
