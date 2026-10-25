@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Overview"
             }
+          },
+          {
+            "id": "80d1d8937bc67307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Project Proteus/Scratch Pad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scratch Pad"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,14 +236,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72f9d4d0a154bee6",
+  "active": "80d1d8937bc67307",
   "lastOpenFiles": [
+    "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Overview.md",
+    "Projects/Project Proteus/Scratch Pad.md",
     "Projects/Project Proteus",
     "Inbox/Productivity Problems and Points of Friction.md",
     "Projects/Personal Data Hub/Overview - Personal Data Hub.md",
     "Inbox/Ideas.md",
     "Inbox/Tasks.md",
-    "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Overview.md",
     "Areas/Five Year Plan/Overview.md",
     "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Untitled 1",
     "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Untitled",
@@ -256,7 +272,6 @@
     "Projects/Home Improvement",
     "Projects/Home Assistant/Z-Wave Network Migration.md",
     "Projects/Home Assistant/Future Automations.md",
-    "Projects/Home Assistant",
     "Projects/F1 Data Engineering/F1 Telemetry Checklist.md",
     "Daily/2026-10-13.md",
     "Pasted image 20261005115948.png"
