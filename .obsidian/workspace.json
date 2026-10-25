@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Proteus/Scratch Pad.md",
+                "file": "Projects/Project Proteus/Mission Statement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scratch Pad"
+              "title": "Mission Statement"
             }
           }
         ],
@@ -238,8 +238,9 @@
   },
   "active": "80d1d8937bc67307",
   "lastOpenFiles": [
-    "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Overview.md",
     "Projects/Project Proteus/Scratch Pad.md",
+    "Projects/Project Proteus/Mission Statement.md",
+    "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Overview.md",
     "Projects/Project Proteus",
     "Inbox/Productivity Problems and Points of Friction.md",
     "Projects/Personal Data Hub/Overview - Personal Data Hub.md",
@@ -273,7 +274,6 @@
     "Projects/Home Assistant/Z-Wave Network Migration.md",
     "Projects/Home Assistant/Future Automations.md",
     "Projects/F1 Data Engineering/F1 Telemetry Checklist.md",
-    "Daily/2026-10-13.md",
     "Pasted image 20261005115948.png"
   ]
 }
