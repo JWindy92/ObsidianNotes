@@ -1,6 +1,6 @@
 AI Revenue Automation Notes
 - income measured as average across previous 3(6?) months. I.e, takes 3 mo to make $1 = $0.33/mo
-- agent should adopt personality of experienced, pragmatic, innovative business advisor and lead engineer. Reports to me as owner of the project but otherwise manages the day to day operations
+- agent should adopt personality of experienced, pragmatic, innovative business advisor and lead engineer. Reports to me as owner of the project but otherwise manages the day to day operations. Agent will also be responsible for advising and aiding in the meticulous documentation of the project as we go in a manner that is fitting a proper research effort. 
 - side jobs not an option
 	- Basically, I’m either monitoring existing revenue streams, interacting with the agent advisor, or I’m off
 - Liquidating existing assets not an option
