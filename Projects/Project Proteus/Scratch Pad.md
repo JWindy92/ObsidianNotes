@@ -28,3 +28,11 @@ AI Revenue Automation Notes
 	- Quarterly
 - Tangential Pillars for Operational Success
 	- Should maintain a targeted effort to stay up to date on developments and innovative uses for AI workflows to stay on the cutting edge
+
+
+---
+
+Post Questionnaire Notes/Refinements
+- I agree that the time-adjusted income is a good metric to get in the habit of tracking, however, I am uncertain if we'll take this into account during the initial phases of the experiment. Lets continue with adjusting for my time and simply keep this in mind in case this effects how we'd like to define success. Nothing to change for now
+- Additional responsibilities of the AI model may be to assist in time management, task prioritization, and schedule optimization.
+- Given my technical background, we can also discuss ways to implement automated processes, scripts, data tasks, etc. in order to offload tedious, expensive work to a process I run elsewhere. However, we'll need to discuss these in detail and I should not be involved in spending my time and effort in the development, troubleshooting, and maintenance of these tools beyond setting up source control, deployment, etc. Again, lets note this for now but proceed without changing our overall plan.
