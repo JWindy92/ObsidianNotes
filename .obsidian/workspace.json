@@ -40,6 +40,16 @@
             }
           },
           {
+            "id": "126310671e6ed892",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
+          },
+          {
             "id": "6a18272ff4dbc912",
             "type": "leaf",
             "pinned": true,
@@ -70,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,7 +288,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92a713a013c6b691",
+  "active": "126310671e6ed892",
   "lastOpenFiles": [
     "Inbox/Tasks.md",
     "Inbox/Ideas.md",
