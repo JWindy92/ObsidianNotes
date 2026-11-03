@@ -11,7 +11,7 @@
   },
   "globalQuery": "",
   "globalFilter": "#task",
-  "removeGlobalFilter": true,
+  "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
   "setCreatedDate": false,
   "setDoneDate": true,
@@ -27,9 +27,6 @@
   "removeScheduledDateOnRecurrence": false,
   "searchResults": {
     "taskCountLocation": "bottom"
-  },
-  "quickSearch": {
-    "fuzzyMatching": true
   },
   "statusSettings": {
     "coreStatuses": [
