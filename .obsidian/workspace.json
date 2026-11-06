@@ -92,9 +92,21 @@
               "icon": "lucide-file",
               "title": "India and Nepal"
             }
+          },
+          {
+            "id": "035e64bb84bb55e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -302,7 +314,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92a713a013c6b691",
+  "active": "035e64bb84bb55e0",
   "lastOpenFiles": [
     "Research/Sex Trafficking/India and Nepal.md",
     "Research/Sex Trafficking",
