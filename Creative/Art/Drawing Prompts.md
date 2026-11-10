@@ -1,0 +1,7 @@
+- Draw the corridor from [[The Nameless City]]
+	- Features
+		- Long dark corridor
+		- Lined with coffins containing creatures
+		- Phospholuminescent glow coming from opening at end of corridor
+	- Techniques
+		- Showing detail using shadows and low light conditions

@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Drawing Practice.md",
+                "file": "Creative/Art/Drawing Prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drawing Practice"
+              "title": "Drawing Prompts"
             }
           },
           {
@@ -320,8 +320,10 @@
   },
   "active": "126310671e6ed892",
   "lastOpenFiles": [
-    "Reference/Drawing Drills.md",
     "Journal/Drawing Practice.md",
+    "Creative/Art/Drawing Prompts.md",
+    "Creative/Art",
+    "Reference/Drawing Drills.md",
     "Research/Sex Trafficking/India and Nepal.md",
     "Research/Sex Trafficking",
     "conflict-files-obsidian-git.md",
@@ -351,11 +353,9 @@
     "Projects/Home Server.md",
     "Projects/Home Assistant/Z-Wave Network Migration.md",
     "Projects/Home Assistant/Future Automations.md",
-    "Inbox/TODO — Buy Jaws Quint T-Shirt.md",
     "Projects/F1 Data Engineering",
     "Projects/Personal Data Hub/Letterboxd",
     "Projects/Home Improvement",
-    "Projects/Home Assistant",
     "Pasted image 20261005115948.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
