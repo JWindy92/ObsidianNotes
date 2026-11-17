@@ -2,24 +2,24 @@ A condensed index of the resources, organized by category for easy reference.
 
 ## 1. YouTube instructors and channels
 
-| Resource                                                                                  | Primary focus                                 | Medium                |     |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------- | --- |
-| [Alphonso Dunn](https://www.youtube.com/@alphonsodunn)                                    | Linework, ink, shading, perspective           | Pen / Pencil          |     |
-| [Peter Han](https://www.youtube.com/results?search_query=Peter+Han+Dynamic+Sketching)     | Dynamic sketching, form, imagination          | Traditional / Digital |     |
-| [Marshall Vandruff](https://www.youtube.com/@MarshallVandruff)                            | Perspective, spatial reasoning, draftsmanship | Traditional           |     |
-| [Glenn Vilppu](https://www.youtube.com/results?search_query=Glenn+Vilppu+drawing)         | Anatomy, gesture, figure construction         | Pencil                |     |
-| [James Gurney](https://www.youtube.com/results?search_query=James+Gurney+art+instruction) | Light, observation, form, illustration        | Traditional           |     |
-| [Feng Zhu / FZD](https://www.youtube.com/@FZDSCHOOL)                                      | Design, environments, mechanical forms        | Digital / Traditional |     |
-| [Stephen Bauman](https://www.youtube.com/@StephenBaumanArt)                               | Portraiture, proportion, tonal drawing        | Graphite / Charcoal   |     |
-| [David Finch](https://www.youtube.com/results?search_query=David+Finch+drawing)           | Anatomy, perspective, ink, lighting           | Pencil / Ink          |     |
-| [John Muir Laws](https://johnmuirlaws.com/)                                               | Nature, animals, observational drawing        | Pencil / Pen          |     |
-| [Sinix Design](https://www.youtube.com/@SinixDesign)                                      | Anatomy, form, stylization                    | Digital               |     |
-| [ModernDayJames](https://www.youtube.com/results?search_query=ModernDayJames)             | Perspective, form, spatial reasoning          | Digital / Traditional |     |
-| [Sycra](https://www.youtube.com/@Sycra)                                                   | Anatomy, form, shape design                   | Digital               |     |
-| [Circle Line Art School](https://www.youtube.com/@CircleLineArtSchool)                    | Perspective, architecture, environments       | Pencil                |     |
-| [Love Life Drawing](https://www.youtube.com/@LoveLifeDrawing)                             | Figure drawing, gesture, anatomy              | Traditional           |     |
-| [New Masters Academy](https://www.youtube.com/@NewMastersAcademy)                         | Classical drawing, anatomy, portraiture       | Traditional           |     |
-| [Jazza](https://www.youtube.com/@Jazza)                                                   | Character and creature design                 | Mixed                 |     |
+| Resource                                                                                  | Primary focus                                 | Medium                | Notes                                              |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------- | -------------------------------------------------- |
+| [Alphonso Dunn](https://www.youtube.com/@alphonsodunn)                                    | Linework, ink, shading, perspective           | Pen / Pencil          |                                                    |
+| [Peter Han](https://www.youtube.com/results?search_query=Peter+Han+Dynamic+Sketching)     | Dynamic sketching, form, imagination          | Traditional / Digital |                                                    |
+| [Marshall Vandruff](https://www.youtube.com/@MarshallVandruff)                            | Perspective, spatial reasoning, draftsmanship | Traditional           | Worth watching Perspective series on Proko channel |
+| [Glenn Vilppu](https://www.youtube.com/results?search_query=Glenn+Vilppu+drawing)         | Anatomy, gesture, figure construction         | Pencil                |                                                    |
+| [James Gurney](https://www.youtube.com/results?search_query=James+Gurney+art+instruction) | Light, observation, form, illustration        | Traditional           |                                                    |
+| [Feng Zhu / FZD](https://www.youtube.com/@FZDSCHOOL)                                      | Design, environments, mechanical forms        | Digital / Traditional |                                                    |
+| [Stephen Bauman](https://www.youtube.com/@StephenBaumanArt)                               | Portraiture, proportion, tonal drawing        | Graphite / Charcoal   |                                                    |
+| [David Finch](https://www.youtube.com/results?search_query=David+Finch+drawing)           | Anatomy, perspective, ink, lighting           | Pencil / Ink          |                                                    |
+| [John Muir Laws](https://johnmuirlaws.com/)                                               | Nature, animals, observational drawing        | Pencil / Pen          |                                                    |
+| [Sinix Design](https://www.youtube.com/@SinixDesign)                                      | Anatomy, form, stylization                    | Digital               |                                                    |
+| [ModernDayJames](https://www.youtube.com/results?search_query=ModernDayJames)             | Perspective, form, spatial reasoning          | Digital / Traditional |                                                    |
+| [Sycra](https://www.youtube.com/@Sycra)                                                   | Anatomy, form, shape design                   | Digital               |                                                    |
+| [Circle Line Art School](https://www.youtube.com/@CircleLineArtSchool)                    | Perspective, architecture, environments       | Pencil                |                                                    |
+| [Love Life Drawing](https://www.youtube.com/@LoveLifeDrawing)                             | Figure drawing, gesture, anatomy              | Traditional           |                                                    |
+| [New Masters Academy](https://www.youtube.com/@NewMastersAcademy)                         | Classical drawing, anatomy, portraiture       | Traditional           |                                                    |
+| [Jazza](https://www.youtube.com/@Jazza)                                                   | Character and creature design                 | Mixed                 |                                                    |
 
 ## 2. Websites, blogs and educational libraries
 
