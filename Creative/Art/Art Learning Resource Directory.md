@@ -102,3 +102,10 @@ A condensed index of the resources, organized by category for easy reference.
 **Suggested starting order:** Alphonso Dunn → Peter Han → Marshall Vandruff → Glenn Vilppu → James Gurney.
 
 This gives you a good progression through traditional technique, spatial construction, anatomy, observation, and imaginative drawing.
+
+---
+
+##### Additional Resources
+
+[[Spotting Blacks]]
+[[Cross Hatching]]
