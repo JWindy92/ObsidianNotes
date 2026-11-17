@@ -44,7 +44,7 @@ A condensed index of the resources, organized by category for easy reference.
 | [SketchDaily](https://reference.sketchdaily.net/) | Configurable drawing references |
 | [Bodies in Motion](https://www.bodiesinmotion.photo/) | Human anatomy and movement |
 | [Proko Poses](https://www.proko.com/) | Figure drawing references |
-
+ 
 ## 4. Books
 
 | Book | Author | Primary focus |
