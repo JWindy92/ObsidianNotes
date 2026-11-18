@@ -36,9 +36,35 @@
               "icon": "lucide-file",
               "title": "Scratch Pad"
             }
+          },
+          {
+            "id": "bfcd50d1c32f771c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
+          },
+          {
+            "id": "9df4609693fd1ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Data Visualization Stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Visualization Stack"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80d1d8937bc67307",
+  "active": "9df4609693fd1ca9",
   "lastOpenFiles": [
     "Projects/Project Proteus/Mission Statement.md",
     "Projects/Project Proteus/Scratch Pad.md",
