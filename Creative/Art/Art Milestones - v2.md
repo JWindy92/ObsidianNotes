@@ -56,6 +56,10 @@ For most exercises, use the following progression:
 - **Course:** [Drawabox — Lesson 1](https://drawabox.com/lesson/1)
 - **Instructor:** [Peter Han — Dynamic Sketching](https://www.youtube.com/results?search_query=Peter+Han+Dynamic+Sketching)
 - **Instructor:** [Alphonso Dunn](https://www.youtube.com/@alphonsodunn)
+	- [Stick People Exercise](https://i.ytimg.com/an_webp/18efvTiX8Qo/mqdefault_6s.webp?du=3000&sqp=COrl9tcG&rs=AOn4CLC_U-4fi36xA2sLvEVYuBqdxaoxtw)
+	- [Line Drawing Exercises](https://www.youtube.com/watch?v=Oatb66DAFXw)
+	- [Line Drawing Exercise](https://www.youtube.com/watch?v=YniyrwNtdVI)
+	- [Sketch People Quickly](https://www.youtube.com/watch?v=FvNKYlGWkHQ)
 - **Course:** [Proko — Drawing Basics](https://www.proko.com/course/drawing-basics)
 
 ## Exercises
