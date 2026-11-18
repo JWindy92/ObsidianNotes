@@ -60,6 +60,7 @@ For most exercises, use the following progression:
 	- [Line Drawing Exercises](https://www.youtube.com/watch?v=Oatb66DAFXw)
 	- [Line Drawing Exercise](https://www.youtube.com/watch?v=YniyrwNtdVI)
 	- [Sketch People Quickly](https://www.youtube.com/watch?v=FvNKYlGWkHQ)
+	- [Intro to Cross Hatching](https://www.youtube.com/watch?v=DtPS4Ei-MwE)
 - **Course:** [Proko — Drawing Basics](https://www.proko.com/course/drawing-basics)
 
 ## Exercises
