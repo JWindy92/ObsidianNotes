@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "487f24ce051e1ed5",
+            "id": "7c39a7cd6667bbd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative/Art/Art Milestones - v2.md",
+                "file": "Reference/Comcast/AES IVI File Generator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Art Milestones - v2"
+              "title": "AES IVI File Generator"
             }
           }
         ],
@@ -236,9 +236,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "487f24ce051e1ed5",
+  "active": "7c39a7cd6667bbd6",
   "lastOpenFiles": [
     "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Overview.md",
+    "Reference/Comcast/AES IVI File Generator.md",
+    "Reference/Troubleshooting/SSH Password Prompt Fix.md",
+    "Creative/Art/Art Milestones - v2.md",
+    "Reference/Troubleshooting",
     "conflict-files-obsidian-git.md",
     "Reference/Data Visualization Stack.md",
     "Research/Sex Trafficking/India and Nepal.md",
@@ -248,7 +252,6 @@
     "Creative/Art/Spotting Blacks.md",
     "Creative/Art/Drawing Prompts.md",
     "Creative/Art/Cross Hatching.md",
-    "Creative/Art/Art Milestones - v2.md",
     "Creative/Art/Art Milestones - v1.md",
     "Creative/Art/Art Learning Resource Directory.md",
     "Creative/Art",
@@ -271,9 +274,6 @@
     "Research/Untitled.md",
     "Research/Sports Betting/Learning Resources.md",
     "Research/Sports Betting",
-    "Reference/Streamlit.md",
-    "Reference/Home Server Service Directory.md",
-    "Projects/Personal Data Hub/Letterboxd",
     "Pasted image 20261005115948.png"
   ]
 }
