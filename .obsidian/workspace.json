@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Comcast/Innovation/Local MCP Setup.md",
+                "file": "Reference/Comcast/Order Gateway Service (OGS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local MCP Setup"
+              "title": "Order Gateway Service (OGS)"
             }
           }
         ],
@@ -239,8 +239,11 @@
   },
   "active": "7c39a7cd6667bbd6",
   "lastOpenFiles": [
-    "Reference/Comcast/Innovation/Local MCP Server Benefits.md",
+    "Reference/Comcast/OGS/Overview.md",
+    "Reference/Comcast/Order Gateway Service (OGS).md",
     "Reference/Comcast/Innovation/Local MCP Setup.md",
+    "Reference/Comcast/OGS",
+    "Reference/Comcast/Innovation/Local MCP Server Benefits.md",
     "Creative/Art/Art Milestones - v2.md",
     "Reference/Comcast/Innovation",
     "Reference/Comcast/AES IVI File Generator.md",
@@ -272,9 +275,6 @@
     "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Untitled",
     "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering",
     "Areas/Five Year Plan/Interests and Personal Growth",
-    "Areas/Five Year Plan/Untitled.md",
-    "Areas/Five Year Plan",
-    "Untitled 1.md",
     "Pasted image 20261005115948.png"
   ]
 }
