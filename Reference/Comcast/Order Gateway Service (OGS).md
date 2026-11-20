@@ -17,4 +17,20 @@
 - Small orders
 	- `CreateOrder` HTTP POST carried entire order
 	- stored
-	- passes through ``
+	- passes through `OrderGatewayValidateAdvertiser` and `OrderGatewaySaveOrder`
+	- sent to OneTIM, XQ, and EDS queues
+- Large orders
+	- Caller POSTs metadata
+		- OrderId
+		- application ID
+		- Advertiser ID
+		- AgencyAccountNumber (optional)
+	- Checks caller identity, validates body, then calls the manager
+	- `SaveOrderTokenInformation`
+		- writes audit row
+		- creates the `OrderGroup`
+		- no advertiser attached
+	- returns  blob upload URL
+	- caller uploads the order file
+		- upload triggers SaveOrderDetail -> rest of pipeline
+
