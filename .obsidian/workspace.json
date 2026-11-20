@@ -4,41 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "b11fc3ae40c9d78c",
+        "id": "bef7d65ba7bd088f",
         "type": "tabs",
         "children": [
           {
-            "id": "ede5bdbe0007d5c2",
+            "id": "93b60ab3337b0dae",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Overview.md",
+                "file": "Projects/Personal Data Hub/Log - Personal Data Hub.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Log - Personal Data Hub"
             }
           },
           {
-            "id": "7c39a7cd6667bbd6",
+            "id": "fd93a48dd276bb27",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "126310671e6ed892",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Comcast/Order Gateway Service (OGS).md",
+                "file": "Creative/Art/Art Milestones - v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Order Gateway Service (OGS)"
+              "title": "Art Milestones - v2"
+            }
+          },
+          {
+            "id": "6a18272ff4dbc912",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Ideas"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "friction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "74d21db092ed5d22",
@@ -113,17 +145,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-07-10.md",
+                "file": "Projects/Personal Data Hub/Log - Personal Data Hub.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-10"
+              "title": "Backlinks"
             }
           },
           {
@@ -132,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/The GATE Program Conspiracy.md",
+                "file": "Reference/Fusion 360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The GATE Program Conspiracy"
+              "title": "Outgoing links from Fusion 360"
             }
           },
           {
@@ -200,8 +232,8 @@
             "state": {
               "type": "planner-time-tracker",
               "state": {},
-              "icon": "timer",
-              "title": "Time Tracker"
+              "icon": "lucide-ghost",
+              "title": "planner-time-tracker"
             }
           },
           {
@@ -213,14 +245,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e884d3efe820b717",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 419.887451171875,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,44 +278,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c39a7cd6667bbd6",
+  "active": "9207d20e94b6f957",
   "lastOpenFiles": [
-    "Reference/Comcast/OGS/Overview.md",
-    "Reference/Comcast/Order Gateway Service (OGS).md",
-    "Reference/Comcast/Innovation/Local MCP Setup.md",
-    "Reference/Comcast/OGS",
-    "Reference/Comcast/Innovation/Local MCP Server Benefits.md",
-    "Creative/Art/Art Milestones - v2.md",
-    "Reference/Comcast/Innovation",
-    "Reference/Comcast/AES IVI File Generator.md",
-    "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Overview.md",
     "Reference/Troubleshooting/SSH Password Prompt Fix.md",
     "Reference/Troubleshooting",
-    "conflict-files-obsidian-git.md",
-    "Reference/Data Visualization Stack.md",
-    "Research/Sex Trafficking/India and Nepal.md",
-    "Research/Sex Trafficking",
-    "Reference/Drawing Drills.md",
-    "Journal/Drawing Practice.md",
+    "Reference/Comcast/Order Gateway Service (OGS).md",
+    "Reference/Comcast/OGS/Overview.md",
+    "Reference/Comcast/OGS",
+    "Reference/Comcast/Innovation/Local MCP Setup.md",
+    "Reference/Comcast/Innovation/Local MCP Server Benefits.md",
+    "Reference/Comcast/Innovation",
+    "Reference/Comcast/AES IVI File Generator.md",
+    "Creative/Art/Art Milestones - v1.md",
+    "Creative/Art/Art Milestones - v2.md",
+    "Creative/Art/Art Learning Resource Directory.md",
+    "Creative/Art/Cross Hatching.md",
     "Creative/Art/Spotting Blacks.md",
     "Creative/Art/Drawing Prompts.md",
-    "Creative/Art/Cross Hatching.md",
-    "Creative/Art/Art Milestones - v1.md",
-    "Creative/Art/Art Learning Resource Directory.md",
+    "Journal/Drawing Practice.md",
     "Creative/Art",
-    "Projects/Project Proteus/Mission Statement.md",
-    "Projects/Project Proteus/Scratch Pad.md",
-    "Projects/Project Proteus/Untitled.md",
-    "Projects/Project Proteus",
-    "Inbox/Productivity Problems and Points of Friction.md",
-    "Projects/Personal Data Hub/Overview - Personal Data Hub.md",
+    "Reference/Drawing Drills.md",
+    "Research/Sex Trafficking/India and Nepal.md",
+    "Research/Sex Trafficking",
+    "conflict-files-obsidian-git.md",
     "Inbox/Ideas.md",
-    "Inbox/Tasks.md",
-    "Areas/Five Year Plan/Overview.md",
-    "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Untitled 1",
-    "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Untitled",
+    "Projects/Personal Data Hub/Overview - Personal Data Hub.md",
+    "Projects/Personal Data Hub/Log - Personal Data Hub.md",
+    "Projects/Project Proteus/Untitled.md",
+    "Projects/Project Proteus/Scratch Pad.md",
+    "Projects/Project Proteus/Mission Statement.md",
+    "Projects/Project Proteus",
+    "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Overview.md",
     "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering",
+    "Areas/Five Year Plan/Overview.md",
     "Areas/Five Year Plan/Interests and Personal Growth",
-    "Pasted image 20261005115948.png"
+    "Areas/Five Year Plan",
+    "Inbox/Tasks.md",
+    "5 Year Plan.md",
+    "Research/Sports Betting",
+    "Pasted image 20261005115948.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
