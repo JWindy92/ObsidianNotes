@@ -68,7 +68,7 @@ For most exercises, use the following progression:
 ### 1. Line Placement and Control
 **Target skill:** Develop accuracy, confidence, and intentional stroke placement.
 
-**Practice session:**
+**Practice session:** [[Warmups and Exercises#^64b485]]
 - Draw rows of straight lines between two predetermined points.
 - Draw rows of curved lines connecting predetermined points.
 - Practice ghosting each stroke before executing it.
@@ -87,7 +87,7 @@ For most exercises, use the following progression:
 ### 2. Ellipse Accuracy
 **Target skill:** Develop consistent ellipses that communicate orientation and volume.
 
-**Practice session:**
+**Practice session:** [[Warmups and Exercises#Ellipses]]
 - Draw ellipses inside predetermined rectangular boundaries.
 - Draw ellipses with varying degrees of compression.
 - Practice rotating cylinders and changing their viewing angles.
