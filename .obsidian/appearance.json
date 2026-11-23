@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "line-spacing"
-  ]
+  ],
+  "showRibbon": true
 }
