@@ -92,38 +92,21 @@
             }
           },
           {
-            "id": "281799f035b5766f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -19,
-                  "y": 213,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "1787ec92e5336887",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-11-25.md",
+                "file": "Creative/Film/The Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-25"
+              "title": "The Matrix"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -333,10 +316,17 @@
   },
   "active": "1787ec92e5336887",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Daily/2026-11-25.md",
+    "Creative/Film/Children Of The Corn.md",
+    "Creative/Film/The Matrix.md",
+    "Creative/Film",
+    "Pasted image 20261005115948.png",
+    "Attachments",
     "Pasted image 20261125103955.png",
+    "Daily/2026-11-25.md",
+    "Research Topics.md",
     "Untitled.canvas",
+    "Untitled 1.md",
+    "conflict-files-obsidian-git.md",
     "Creative/Art/Warmups and Exercises.md",
     "Reference/Troubleshooting/SSH Password Prompt Fix.md",
     "Reference/Troubleshooting",
@@ -362,15 +352,9 @@
     "Projects/Personal Data Hub/Overview - Personal Data Hub.md",
     "Projects/Personal Data Hub/Log - Personal Data Hub.md",
     "Projects/Project Proteus/Untitled.md",
-    "Projects/Project Proteus/Scratch Pad.md",
-    "Projects/Project Proteus/Mission Statement.md",
     "Projects/Project Proteus",
-    "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering/Overview.md",
     "Areas/Five Year Plan/Interests and Personal Growth/Data Science and Engineering",
     "Areas/Five Year Plan/Interests and Personal Growth",
-    "Areas/Five Year Plan",
-    "Research/Sports Betting",
-    "Pasted image 20261005115948.png",
     "Untitled 1.canvas"
   ]
 }
