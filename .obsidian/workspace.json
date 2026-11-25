@@ -68,9 +68,31 @@
               "icon": "lucide-file",
               "title": "Ideas"
             }
+          },
+          {
+            "id": "e1e7d7c3a80a149f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
+          },
+          {
+            "id": "698e5b9065b097b7",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -278,7 +300,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9207d20e94b6f957",
+  "active": "698e5b9065b097b7",
   "lastOpenFiles": [
     "Reference/Troubleshooting/SSH Password Prompt Fix.md",
     "Reference/Troubleshooting",
